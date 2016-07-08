@@ -75,9 +75,15 @@ Umam
 
     Soccer Nightstand
 
+    Soccer Lamp
+
     Ballon Table
 
     Ballon Floor
+
+    Ballon Nightstand
+
+    Ballon Bed
 
     Candy Plant
 
@@ -186,12 +192,12 @@ Tata_1993
 COMPLETE FURNITURE SETS
 
 BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
-* Balloon Bed
+* Balloon Bed [Umam]
 * Balloon Chair [Marta]
 * Balloon Clock
 * Balloon Floor [Adverfull, Machich, Umam]
 * Balloon Lamp [Zoitsa]
-* Balloon Nightstand [Khan, Dany20]
+* Balloon Nightstand [Khan, Dany20, Umam]
 * Balloon Plant [Marta, Tonia]
 * Balloon Sofa
 * Balloon TV
@@ -218,7 +224,7 @@ SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Chair [Khan, Supriyadi, Nour2003]
 * Soccer Clock [Sayani, Nour2003,]
 * Soccer Floor
-* Soccer Lamp [Musarah, Tata_1993]
+* Soccer Lamp [Musarah, Tata_1993, Umam]
 * Soccer Nightstand [Adverfull, Umam, Dany20]
 * Soccer Single Sofa
 * Soccer Sofa

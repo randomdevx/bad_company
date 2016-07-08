@@ -36,6 +36,8 @@ Zoitsa
 
     Space Lamp
 
+    Candy Nightstand
+
 
 Adverfull
 
@@ -103,6 +105,8 @@ Sayani
     Soccer clock
 
     Candy nightstand
+
+    Gorgeous chair
 
 
 Supriyadi
@@ -201,7 +205,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Chair [LilPrinnie, Daredevil]
 * Candy Floor
 * Candy Lamp
-* Candy Nightstand [Sayani]
+* Candy Nightstand [Sayani, Zoitsa]
 * Candy Plant [Umam, Dany20, Tonia, AZ]
 * Candy Sofa
 * Candy Stool [Marta]
@@ -239,7 +243,7 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 
 GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 * Gorgeous Bed
-* Gorgeous Chair [Simewn, Marta, Esraa, AZ]
+* Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani]
 * Gorgeous Closet
 * Gorgeous Floor
 * Gorgeous Lamp

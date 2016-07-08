@@ -1,6 +1,3 @@
-Switch to Browse mode (on the toolbar up top) to edit.  <<<<<
-============================
-
 Hi Bad Company Members!
 
 This is a page for Factory Deco you have and want to make available for the club members. Write your name and the items below. 
@@ -66,6 +63,8 @@ Simewn
 Daredevil
 
     Baloon Wardrobe
+
+    Candy chair
 
 
 Umam
@@ -165,8 +164,22 @@ Nour2003
     Soccer chair
 
 
+AZ
 
-FURNITURE FACTORY COMPLETE SETS
+    Candy Plant
+
+    Gorgeous Chair
+
+
+Tata_1993
+
+    Soccer lamp 
+
+    Space clock
+
+
+
+COMPLETE FURNITURE SETS
 
 BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 * Balloon Bed
@@ -185,11 +198,11 @@ BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]
 * Candy Bed
-* Candy Chair [LilPrinnie]
+* Candy Chair [LilPrinnie, Daredevil]
 * Candy Floor
 * Candy Lamp
 * Candy Nightstand [Sayani]
-* Candy Plant [Umam, Dany20, Tonia]
+* Candy Plant [Umam, Dany20, Tonia, AZ]
 * Candy Sofa
 * Candy Stool [Marta]
 * Candy Table
@@ -201,7 +214,7 @@ SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Chair [Khan, Supriyadi, Nour2003]
 * Soccer Clock [Sayani, Nour2003,]
 * Soccer Floor
-* Soccer Lamp [Musarah]
+* Soccer Lamp [Musarah, Tata_1993]
 * Soccer Nightstand [Adverfull, Umam, Dany20]
 * Soccer Single Sofa
 * Soccer Sofa
@@ -213,7 +226,7 @@ SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 * Space Bed
 * Space Chair
-* Space Clock [Esraa]
+* Space Clock [Esraa, Tata_1993]
 * Space Floor
 * Space Lamp [Zoitsa, Adverful]
 * Space Nightstand
@@ -226,7 +239,7 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 
 GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 * Gorgeous Bed
-* Gorgeous Chair [Simewn, Marta, Esraa]
+* Gorgeous Chair [Simewn, Marta, Esraa, AZ]
 * Gorgeous Closet
 * Gorgeous Floor
 * Gorgeous Lamp
@@ -239,7 +252,7 @@ GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 * Gorgeous Whiskey Table
 
 
-FURNITURE SETS QUEUE LIST
+QUEUE LIST PER FURNITURE SET
 
 BALLOON SET
 * 

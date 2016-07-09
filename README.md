@@ -220,6 +220,10 @@ Tata_1993
     Space clock
 
 
+SherlocksAwesome
+
+    Balloon wall
+
 
 COMPLETE FURNITURE SETS
 
@@ -234,7 +238,7 @@ BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 * Balloon Sofa
 * Balloon TV
 * Balloon Table [Umam, Sayani]
-* Balloon Wall
+* Balloon Wall [Sherlock]
 * Balloon Wardrobe [Daredevil]
 
 CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]

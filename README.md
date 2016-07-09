@@ -138,6 +138,8 @@ Sayani
 
     Gorgeous chair
 
+    Soccer bed
+
 
 Supriyadi
 
@@ -250,7 +252,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Wardrobe [Adverfull]
 
 SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-* Soccer Bed [Marta]
+* Soccer Bed [Marta, Sayani]
 * Soccer Chair [Khan, Supriyadi, Nour2003, Dany20, Adverfull]
 * Soccer Clock [Sayani, Nour2003]
 * Soccer Floor
@@ -293,6 +295,18 @@ GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 
 
 QUEUE LIST PER FURNITURE SET
+
+Trade guidelines: 
+
+    Remember, the insurance price per item is 500 fb. Each set is 12 items, meaning 6k fb total.
+
+    The member in current possession of the set is responsible for trading the set to the next member in the queue list.
+
+    BEFORE any trade, an in-game confirmation message should be sent by Zoitsa/Khan. Without this confirmation the trade of the set shouldn't happen to avoid forgery.
+
+    AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
+
+
 
 BALLOON SET
 * 

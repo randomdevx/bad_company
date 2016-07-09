@@ -15,6 +15,8 @@ The rules to get in the queue list for a set are as follow:
 
 This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing to avoid issues later on write your ideas below.
 
+Note: If you guys are currently able or in the position to trade with other players for items that we collectively don't have, with items that several members currently have, it could be convenient for the club and you in particular. There seem to be items that are more rare than others and most players in the game aren't aware of these stats. We can see a pattern develop here though. The most rare items are likely to be expensive over time.
+
 Thank you 
 Zoitsa, Khan
 
@@ -39,13 +41,35 @@ Zoitsa
     Candy Nightstand
 
 
-Adverfull
+Adverfull - update - 09/07
 
     Soccer Nightstand
 
+    Soccer Table
+
+    Soccer Chair
+
     Space Lamp
 
+    Space Sofa
+
+    Space Nightstand
+
+    Space Clock
+
     Ballon Floor
+
+    Gorgeous Table
+
+    Gorgeous Chair
+
+    Candy Stool
+
+    Candy Nightstand
+
+    Candy Wardrobe
+
+    Candy Floor
 
 
 LilPrinnie
@@ -148,12 +172,18 @@ Dany20
 
     Balloon Nightstand
 
+    Soccer Chair
+
+    Soccer Stool
+
 
 Tonia
 
     Candy Plant
 
     Balloon Plant
+
+    Space Lamp
 
 
 Esraa
@@ -209,38 +239,38 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]
 * Candy Bed
 * Candy Chair [LilPrinnie, Daredevil]
-* Candy Floor
+* Candy Floor [Adverfull]
 * Candy Lamp
-* Candy Nightstand [Sayani, Zoitsa]
+* Candy Nightstand [Sayani, Zoitsa, Adverfull]
 * Candy Plant [Umam, Dany20, Tonia, AZ]
 * Candy Sofa
-* Candy Stool [Marta]
+* Candy Stool [Marta, Adverfull]
 * Candy Table
 * Candy Wall [Flora]
-* Candy Wardrobe
+* Candy Wardrobe [Adverfull]
 
 SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Bed [Marta]
-* Soccer Chair [Khan, Supriyadi, Nour2003]
-* Soccer Clock [Sayani, Nour2003,]
+* Soccer Chair [Khan, Supriyadi, Nour2003, Dany20, Adverfull]
+* Soccer Clock [Sayani, Nour2003]
 * Soccer Floor
 * Soccer Lamp [Musarah, Tata_1993, Umam]
 * Soccer Nightstand [Adverfull, Umam, Dany20]
 * Soccer Single Sofa
 * Soccer Sofa
-* Soccer Stool [LilPrinnie, Umam, Sayani]
-* Soccer Table [Esraa]
+* Soccer Stool [LilPrinnie, Umam, Sayani, Dany20]
+* Soccer Table [Esraa, Adverfull]
 * Soccer Wall [Musarah]
 * Soccer Wardrobe
 
 SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 * Space Bed
 * Space Chair
-* Space Clock [Esraa, Tata_1993]
+* Space Clock [Esraa, Tata_1993, Adverfull]
 * Space Floor
-* Space Lamp [Zoitsa, Adverful]
-* Space Nightstand
-* Space Sofa
+* Space Lamp [Zoitsa, Adverfull, Tonia]
+* Space Nightstand [Adverfull]
+* Space Sofa [Adverfull]
 * Space TV
 * Space Table
 * Space Trash Bin
@@ -249,14 +279,14 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 
 GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 * Gorgeous Bed
-* Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani]
+* Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
 * Gorgeous Closet
 * Gorgeous Floor
 * Gorgeous Lamp
 * Gorgeous Nightstand [Khan, Umam, Esraa]
 * Gorgeous Plant
 * Gorgeous Sofa [Marta]
-* Gorgeous Table
+* Gorgeous Table [Adverfull]
 * Gorgeous Wall
 * Gorgeous Wardrobe
 * Gorgeous Whiskey Table

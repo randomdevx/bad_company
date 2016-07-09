@@ -138,8 +138,6 @@ Sayani
 
     Gorgeous chair
 
-    Soccer bed
-
 
 Supriyadi
 
@@ -205,6 +203,8 @@ Nour2003
 
     Soccer chair
 
+    Soccer bed
+
 
 AZ
 
@@ -223,6 +223,7 @@ Tata_1993
 SherlocksAwesome
 
     Balloon wall
+
 
 
 COMPLETE FURNITURE SETS
@@ -256,7 +257,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Wardrobe [Adverfull]
 
 SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-* Soccer Bed [Marta, Sayani]
+* Soccer Bed [Marta, Nour2003]
 * Soccer Chair [Khan, Supriyadi, Nour2003, Dany20, Adverfull]
 * Soccer Clock [Sayani, Nour2003]
 * Soccer Floor

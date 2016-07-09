@@ -186,6 +186,8 @@ Dany20
 
     Soccer Stool
 
+    Balloon Wardrobe
+
 
 Tonia
 
@@ -207,7 +209,6 @@ Esraa
     Space clock
 
     Soccer chair
-
 
 
 Nour2003
@@ -255,7 +256,7 @@ BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 * Balloon TV
 * Balloon Table [Umam, Sayani]
 * Balloon Wall [Sherlock, Simewn]
-* Balloon Wardrobe [Daredevil]
+* Balloon Wardrobe [Daredevil, Dany20]
 
 CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]

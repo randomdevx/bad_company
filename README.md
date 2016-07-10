@@ -41,7 +41,7 @@ Zoitsa
     Candy Nightstand
 
 
-Adverfull - update - 09/07
+Adverfull
 
     Soccer Nightstand
 

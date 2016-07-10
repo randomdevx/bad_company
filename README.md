@@ -132,6 +132,8 @@ Machich
 
     Candy Plant
 
+    Gorgeous Wall
+
 
 Musarah
 
@@ -333,7 +335,7 @@ GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 * Gorgeous Plant
 * Gorgeous Sofa [Marta]
 * Gorgeous Table [Adverfull]
-* Gorgeous Wall
+* Gorgeous Wall [Machich]
 * Gorgeous Wardrobe
 * Gorgeous Whiskey Table
 

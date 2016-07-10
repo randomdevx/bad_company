@@ -210,6 +210,8 @@ Esraa
 
     Soccer chair
 
+    Candy Floor
+
 
 Nour2003
 
@@ -262,7 +264,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]
 * Candy Bed
 * Candy Chair [LilPrinnie, Daredevil]
-* Candy Floor [Adverfull]
+* Candy Floor [Adverfull, Esraa]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull]
 * Candy Plant [Umam, Dany20, Tonia, AZ]

@@ -158,6 +158,8 @@ Flora
 
     Candy Wall
 
+    Candy Floor
+
 
 Marta
 
@@ -264,7 +266,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]
 * Candy Bed
 * Candy Chair [LilPrinnie, Daredevil]
-* Candy Floor [Adverfull, Esraa]
+* Candy Floor [Adverfull, Esraa, Flora]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull]
 * Candy Plant [Umam, Dany20, Tonia, AZ]

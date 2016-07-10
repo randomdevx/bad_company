@@ -40,6 +40,8 @@ Zoitsa
 
     Candy Nightstand
 
+    Candy Plant
+
 
 Adverfull
 
@@ -150,6 +152,8 @@ Sayani
 
     Gorgeous chair
 
+    Space sofa
+
 
 Supriyadi
 
@@ -225,6 +229,14 @@ Nour2003
 
     Soccer bed
 
+    Soccer table
+
+    Candy wall
+
+    Balloon wardrobe
+
+    Balloon nightstand
+
 
 AZ
 
@@ -261,13 +273,13 @@ BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 * Balloon Clock
 * Balloon Floor [Adverfull, Machich, Umam, Simewn]
 * Balloon Lamp [Zoitsa]
-* Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn]
+* Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour2003]
 * Balloon Plant [Marta, Tonia, Simewn]
 * Balloon Sofa
 * Balloon TV
 * Balloon Table [Umam, Sayani]
 * Balloon Wall [Sherlock, Simewn]
-* Balloon Wardrobe [Daredevil, Dany20]
+* Balloon Wardrobe [Daredevil, Dany20, Nour2003]
 
 CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]
@@ -276,11 +288,11 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Floor [Adverfull, Esraa, Flora]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull]
-* Candy Plant [Umam, Dany20, Tonia, AZ, Machich]
+* Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa]
 * Candy Sofa
 * Candy Stool [Marta, Adverfull]
 * Candy Table
-* Candy Wall [Flora]
+* Candy Wall [Flora, Nour2003]
 * Candy Wardrobe [Adverfull]
 
 SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
@@ -293,7 +305,7 @@ SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Single Sofa
 * Soccer Sofa
 * Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn]
-* Soccer Table [Esraa, Adverfull]
+* Soccer Table [Esraa, Adverfull, Nour2003]
 * Soccer Wall [Musarah]
 * Soccer Wardrobe
 
@@ -304,7 +316,7 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 * Space Floor
 * Space Lamp [Zoitsa, Adverfull, Tonia]
 * Space Nightstand [Adverfull]
-* Space Sofa [Adverfull]
+* Space Sofa [Adverfull, Sayani]
 * Space TV
 * Space Table
 * Space Trash Bin

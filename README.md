@@ -128,6 +128,8 @@ Machich
 
     Balloon Floor 
 
+    Candy Plant
+
 
 Musarah
 
@@ -245,6 +247,11 @@ SherlocksAwesome
     Balloon wall
 
 
+Ben
+
+    Soccer Chair
+
+
 
 COMPLETE FURNITURE SETS
 
@@ -269,7 +276,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Floor [Adverfull, Esraa, Flora]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull]
-* Candy Plant [Umam, Dany20, Tonia, AZ]
+* Candy Plant [Umam, Dany20, Tonia, AZ, Machich]
 * Candy Sofa
 * Candy Stool [Marta, Adverfull]
 * Candy Table
@@ -278,7 +285,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 
 SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Bed [Marta, Nour2003]
-* Soccer Chair [Khan, Supriyadi, Nour2003, Dany20, Adverfull, Esraa]
+* Soccer Chair [Khan, Supriyadi, Nour2003, Dany20, Adverfull, Esraa, Ben]
 * Soccer Clock [Sayani, Nour2003]
 * Soccer Floor
 * Soccer Lamp [Musarah, Tata_1993, Umam]
@@ -335,5 +342,4 @@ Trade guidelines:
 
 BALLOON SET
 * 
-
 

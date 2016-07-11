@@ -138,12 +138,18 @@ Machich
 
     Gorgeous Wall
 
+    Soccer Single Sofa 
+
+    Space Floor
+
 
 Musarah
 
     Soccer Wall
 
     Soccer Lamp
+
+    Soccer Clock
 
 
 Sayani
@@ -261,6 +267,8 @@ Tata_1993
 
     Balloon Nightstand
 
+    Georgeous floor
+
 
 SherlocksAwesome
 
@@ -311,11 +319,11 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Bed [Marta, Nour2003]
 * Soccer Chair [Khan, Supriyadi, Nour2003, Dany20, Adverfull, Esraa, Ben]
-* Soccer Clock [Sayani, Nour2003]
+* Soccer Clock [Sayani, Nour2003, Musarah]
 * Soccer Floor
 * Soccer Lamp [Musarah, Tata_1993, Umam, Tonia]
 * Soccer Nightstand [Adverfull, Umam, Dany20]
-* Soccer Single Sofa
+* Soccer Single Sofa [Machich]
 * Soccer Sofa
 * Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn]
 * Soccer Table [Esraa, Adverfull, Nour2003]
@@ -326,7 +334,7 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 * Space Bed
 * Space Chair
 * Space Clock [Esraa, Tata_1993, Adverfull]
-* Space Floor
+* Space Floor [Machich]
 * Space Lamp [Zoitsa, Adverfull, Tonia, Khan]
 * Space Nightstand [Adverfull]
 * Space Sofa [Adverfull, Sayani]
@@ -340,7 +348,7 @@ GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 * Gorgeous Bed
 * Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
 * Gorgeous Closet
-* Gorgeous Floor
+* Gorgeous Floor [Tata_1993]
 * Gorgeous Lamp
 * Gorgeous Nightstand [Khan, Umam, Esraa]
 * Gorgeous Plant

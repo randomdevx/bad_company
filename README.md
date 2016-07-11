@@ -208,6 +208,12 @@ Dany20
 
     Balloon Wardrobe
 
+    Balloon Chair
+
+    Soccer Wall
+
+    Space Lamp
+
 
 Tonia
 
@@ -290,7 +296,7 @@ COMPLETE FURNITURE SETS
 
 BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 * Balloon Bed [Umam]
-* Balloon Chair [Marta]
+* Balloon Chair [Marta, Dany20]
 * Balloon Clock
 * Balloon Floor [Adverfull, Machich, Umam, Simewn]
 * Balloon Lamp [Zoitsa]
@@ -327,7 +333,7 @@ SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Sofa
 * Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn]
 * Soccer Table [Esraa, Adverfull, Nour2003]
-* Soccer Wall [Musarah]
+* Soccer Wall [Musarah, Dany20]
 * Soccer Wardrobe
 
 SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
@@ -335,7 +341,7 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 * Space Chair
 * Space Clock [Esraa, Tata_1993, Adverfull]
 * Space Floor [Machich]
-* Space Lamp [Zoitsa, Adverfull, Tonia, Khan]
+* Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20]
 * Space Nightstand [Adverfull]
 * Space Sofa [Adverfull, Sayani]
 * Space TV

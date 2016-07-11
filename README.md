@@ -129,6 +129,8 @@ Umam
 
     Gorgeous Nightstand
 
+    Space Wardrobe
+
 
 Machich
 
@@ -350,7 +352,7 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 * Space Table
 * Space Trash Bin
 * Space Wall
-* Space Wardrobe
+* Space Wardrobe [Umam]
 
 GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 * Gorgeous Bed

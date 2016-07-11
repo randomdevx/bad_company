@@ -251,11 +251,13 @@ Nour2003
 
     Soccer table
 
-    Candy wall
+    Candy floor
 
     Balloon wardrobe
 
     Balloon nightstand
+
+    Candy sofa
 
 
 AZ
@@ -312,14 +314,14 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]
 * Candy Bed
 * Candy Chair [LilPrinnie, Daredevil]
-* Candy Floor [Adverfull, Esraa, Flora]
+* Candy Floor [Adverfull, Esraa, Flora, Nour2003]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull]
 * Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa]
-* Candy Sofa [Adverfull]
+* Candy Sofa [Adverfull, Nour2003]
 * Candy Stool [Marta, Adverfull]
 * Candy Table
-* Candy Wall [Flora, Nour2003]
+* Candy Wall [Flora]
 * Candy Wardrobe [Adverfull]
 
 SOCCER SET [ Garish Hind | 5x | Fish, Insects ]

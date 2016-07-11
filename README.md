@@ -31,6 +31,8 @@ Khan
 
     Gorgeous nightstand
 
+    Space lamp
+
 
 Zoitsa
 
@@ -268,6 +270,11 @@ Ben
     Soccer Chair
 
 
+Hcyucvuyf
+
+    Baloon nightstand
+
+
 
 COMPLETE FURNITURE SETS
 
@@ -277,7 +284,7 @@ BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 * Balloon Clock
 * Balloon Floor [Adverfull, Machich, Umam, Simewn]
 * Balloon Lamp [Zoitsa]
-* Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour2003]
+* Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour2003, Hcyucvuyf]
 * Balloon Plant [Marta, Tonia, Simewn]
 * Balloon Sofa
 * Balloon TV
@@ -318,7 +325,7 @@ SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 * Space Chair
 * Space Clock [Esraa, Tata_1993, Adverfull]
 * Space Floor
-* Space Lamp [Zoitsa, Adverfull, Tonia]
+* Space Lamp [Zoitsa, Adverfull, Tonia, Khan]
 * Space Nightstand [Adverfull]
 * Space Sofa [Adverfull, Sayani]
 * Space TV

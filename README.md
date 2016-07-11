@@ -211,6 +211,8 @@ Tonia
 
     Space Lamp
 
+    Soccer Lamp
+
 
 Esraa
 
@@ -311,7 +313,7 @@ SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 * Soccer Chair [Khan, Supriyadi, Nour2003, Dany20, Adverfull, Esraa, Ben]
 * Soccer Clock [Sayani, Nour2003]
 * Soccer Floor
-* Soccer Lamp [Musarah, Tata_1993, Umam]
+* Soccer Lamp [Musarah, Tata_1993, Umam, Tonia]
 * Soccer Nightstand [Adverfull, Umam, Dany20]
 * Soccer Single Sofa
 * Soccer Sofa

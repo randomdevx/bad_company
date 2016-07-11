@@ -73,6 +73,8 @@ Adverfull
 
     Candy Floor
 
+    Candy Sofa
+
 
 LilPrinnie
 
@@ -291,7 +293,7 @@ CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull]
 * Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa]
-* Candy Sofa
+* Candy Sofa [Adverfull]
 * Candy Stool [Marta, Adverfull]
 * Candy Table
 * Candy Wall [Flora, Nour2003]

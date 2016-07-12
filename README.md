@@ -160,7 +160,6 @@ Zoitsa, Khan
 - Soccer Lamp 
 - Space Clock
 - Balloon Nightstand
-- Georgeous Floor
 
 #### SherlocksAwesome
 - Balloon Wall
@@ -241,7 +240,7 @@ Zoitsa, Khan
 * Gorgeous Bed
 * Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
 * Gorgeous Closet
-* Gorgeous Floor [Tata_1993]
+* Gorgeous Floor
 * Gorgeous Lamp
 * Gorgeous Nightstand [Khan, Umam, Esraa]
 * Gorgeous Plant

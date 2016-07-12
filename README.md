@@ -26,7 +26,7 @@ Zoitsa, Khan
 - Space Lamp
 
 #### Zoitsa
-- Baloon Lamp
+- Balloon Lamp
 - Space Lamp
 - Candy Nightstand
 - Candy Plant
@@ -66,7 +66,7 @@ Zoitsa, Khan
 - Soccer Stool
 
 #### Daredevil
-- Baloon Wardrobe
+- Balloon Wardrobe
 - Candy Chair
 
 #### Umam
@@ -103,7 +103,7 @@ Zoitsa, Khan
 - Gorgeous Wardrobe
 
 #### Supriyadi
-- Soccer chair
+- Soccer Chair
 
 #### Flora
 - Candy Wall
@@ -169,7 +169,7 @@ Zoitsa, Khan
 - Soccer Stool
 - Space Nightstand
 - Candy Plant
-- Baloon Plant
+- Balloon Plant
 
 #### Hcyucvuyf
 - Balloon Nightstand

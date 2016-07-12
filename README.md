@@ -25,13 +25,13 @@ FURNITURE PER MEMBER
 
 Khan
 
-    Soccer chair
+    Soccer Chair
 
-    Balloon nightstand
+    Balloon Nightstand
 
-    Gorgeous nightstand
+    Gorgeous Nightstand
 
-    Space lamp
+    Space Lamp
 
 
 Zoitsa
@@ -91,13 +91,13 @@ Simewn
 
     Candy Arm Chair
 
-    Balloon floor
+    Balloon Floor
 
-    Balloon plant
+    Balloon Plant
 
-    Balloon wall
+    Balloon Wall
 
-    Balloon nightstand
+    Balloon Nightstand
 
     Soccer Stool
 
@@ -106,7 +106,7 @@ Daredevil
 
     Baloon Wardrobe
 
-    Candy chair
+    Candy Chair
 
 
 Umam
@@ -156,17 +156,17 @@ Musarah
 
 Sayani
 
-    Ballon table
+    Ballon Table
 
-    Soccer stool
+    Soccer Stool
 
-    Soccer clock
+    Soccer Clock
 
-    Candy nightstand
+    Candy Nightstand
 
-    Gorgeous chair
+    Gorgeous Chair
 
-    Space sofa
+    Space Sofa
 
 
 Supriyadi
@@ -230,36 +230,36 @@ Tonia
 
 Esraa
 
-    Soccer table
+    Soccer Table
 
-    Gorgeous nightstand
+    Gorgeous Nightstand
 
-    Gorgeous chair
+    Gorgeous Chair
 
-    Space clock
+    Space Clock
 
-    Soccer chair
+    Soccer Chair
 
     Candy Floor
 
 
 Nour2003
 
-    Soccer clock
+    Soccer Clock
 
-    Soccer chair
+    Soccer Chair
 
-    Soccer bed
+    Soccer Bed
 
-    Soccer table
+    Soccer Table
 
-    Candy floor
+    Candy Floor
 
-    Balloon wardrobe
+    Balloon Wardrobe
 
-    Balloon nightstand
+    Balloon Nightstand
 
-    Candy sofa
+    Candy Sofa
 
 
 AZ
@@ -271,18 +271,18 @@ AZ
 
 Tata_1993
 
-    Soccer lamp 
+    Soccer Lamp 
 
-    Space clock
+    Space Clock
 
     Balloon Nightstand
 
-    Georgeous floor
+    Georgeous Floor
 
 
 SherlocksAwesome
 
-    Balloon wall
+    Balloon Wall
 
 
 Ben
@@ -298,7 +298,7 @@ Ben
 
 Hcyucvuyf
 
-    Baloon nightstand
+    Balloon Nightstand
 
 
 sad123456789

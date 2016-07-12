@@ -30,6 +30,7 @@ Zoitsa, Khan
 - Space Lamp
 - Candy Nightstand
 - Candy Plant
+- Candy Chair
 
 #### Adverfull
 - Soccer Nightstand
@@ -49,7 +50,10 @@ Zoitsa, Khan
 - Candy Sofa
 
 #### LilPrinnie
+- Balloon Nightstand
+- Balloon Chair
 - Soccer Stool
+- Soccer Wall
 - Candy Chair
 
 #### Simewn
@@ -96,6 +100,7 @@ Zoitsa, Khan
 - Candy Nightstand
 - Gorgeous Chair
 - Space Sofa
+- Gorgeous Wardrobe
 
 #### Supriyadi
 - Soccer chair
@@ -178,11 +183,11 @@ Zoitsa, Khan
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 * Balloon Bed [Umam]
-* Balloon Chair [Marta, Dany20]
+* Balloon Chair [Marta, Dany20, LilPrinnie]
 * Balloon Clock
 * Balloon Floor [Adverfull, Machich, Umam, Simewn]
 * Balloon Lamp [Zoitsa]
-* Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour2003, Hcyucvuyf]
+* Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour2003, Hcyucvuyf, LilPrinnie]
 * Balloon Plant [Marta, Tonia, Simewn, Ben]
 * Balloon Sofa
 * Balloon TV
@@ -193,7 +198,7 @@ Zoitsa, Khan
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 * Candy Armchair [Simewn]
 * Candy Bed
-* Candy Chair [LilPrinnie, Daredevil]
+* Candy Chair [LilPrinnie, Daredevil, Zoitsa]
 * Candy Floor [Adverfull, Esraa, Flora, Nour2003]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull]
@@ -215,7 +220,7 @@ Zoitsa, Khan
 * Soccer Sofa
 * Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben]
 * Soccer Table [Esraa, Adverfull, Nour2003]
-* Soccer Wall [Musarah, Dany20]
+* Soccer Wall [Musarah, Dany20, LilPrinnie]
 * Soccer Wardrobe
 
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
@@ -243,7 +248,7 @@ Zoitsa, Khan
 * Gorgeous Sofa [Marta]
 * Gorgeous Table [Adverfull]
 * Gorgeous Wall [Machich]
-* Gorgeous Wardrobe
+* Gorgeous Wardrobe [Sayani]
 * Gorgeous Whiskey Table
 
 

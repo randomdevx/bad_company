@@ -12,6 +12,7 @@ The rules to get in the queue list for a set are as follow:
 #### Notes
 > - This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing to avoid issues later on write your ideas below.
 > - If you guys are currently able or in the position to trade with other players for items that we collectively don't have, with items that several members currently have, it could be convenient for the club and you in particular. There seem to be items that are more rare than others and most players in the game aren't aware of these stats. We can see a pattern develop here though. The most rare items are likely to be expensive over time.
+> - To view a list of confirmed changes to this file go to https://github.com/randomdevx/bad_company/commits/master
 
 Thank you
 Zoitsa, Khan

@@ -239,6 +239,7 @@ Zoitsa, Khan
 
 #### SherlocksAwesome
 - Balloon Wall
+- Soccer Nightstand
 
 #### Ben
 - Soccer Stool
@@ -290,7 +291,7 @@ Zoitsa, Khan
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome]
 - [x] Soccer Single Sofa [Machich]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull]

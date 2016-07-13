@@ -13,9 +13,41 @@ The rules to get in the queue list for a set are as follow:
 > - This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing to avoid issues later on write your ideas below.
 > - If you guys are currently able or in the position to trade with other players for items that we collectively don't have, with items that several members currently have, it could be convenient for the club and you in particular. There seem to be items that are more rare than others and most players in the game aren't aware of these stats. We can see a pattern develop here though. The most rare items are likely to be expensive over time.
 > - To view a list of confirmed changes to this file go to https://github.com/randomdevx/bad_company/commits/master
+> - To view a pretty print of this file go to https://github.com/randomdevx/bad_company
 
 Thank you
 Zoitsa, Khan
+
+
+# ITEMS WE ARE MISSING
+
+|Balloon Clock                       |Balloon Sofa                        |Balloon TV                          |
+|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+|![](/img/Balloon-clock.png)         |![](/img/Balloon-Sofa.png)          |![](/img/Balloon-TVset.png)         |
+
+|Candy Lamp                          |Candy Table                         |
+|:----------------------------------:|:----------------------------------:|
+|![](/img/Candy-lamp.png)            |![](/img/Candy-table.png)           |
+
+|Soccer Floor                        |Soccer Sofa                         |
+|:----------------------------------:|:----------------------------------:|
+|![](/img/soccer-set_floor.png)      |![](/img/soccer-set_sofa.png)       |
+
+|Space Chair                         |Space TV                            |Space Bed                           |
+|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+|![](/img/space_chair.png)           |![](/img/space_tv-set.png)          |![](/img/space_bed.png)             |
+
+|Space Table                         |Space Wall                          |Space Trash Bin                     |
+|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+|![](/img/space_table.png)           |![](/img/space_wall.png)            |![](/img/space_trash-bin.png)       |
+
+|Gorgeous Closet                     |Gorgeous Bed                        |Gorgeous Floor                      |
+|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+|![](/img/Gorgeous-Set-closet.png)   |![](/img/Gorgeous-Set-bed.png)      |![](/img/Gorgeous-Set-floor.png)    |
+
+|Gorgeous Whiskey Table              |
+|:----------------------------------:|
+|![](/img/Gorgeous-Set-whisky-t.png)|
 
 
 # FURNITURE PER MEMBER

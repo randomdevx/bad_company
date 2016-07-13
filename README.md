@@ -25,6 +25,7 @@ Zoitsa, Khan
 - Balloon Nightstand
 - Gorgeous Nightstand
 - Space Lamp
+- Space Floor
 
 #### Zoitsa
 - Balloon Lamp
@@ -269,7 +270,7 @@ Zoitsa, Khan
 * __Space Bed__
 * __Space Chair__
 * Space Clock [Esraa, Tata_1993, Adverfull, sad123456789]
-* Space Floor [Machich, Marta, Adverfull]
+* Space Floor [Machich, Marta, Adverfull, Khan]
 * Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20]
 * Space Nightstand [Adverfull, Ben, Marta]
 * Space Sofa [Adverfull, Sayani, Marta]

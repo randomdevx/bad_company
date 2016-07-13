@@ -149,6 +149,7 @@ Zoitsa, Khan
 - Soccer Wall
 - Soccer Lamp
 - Soccer Clock
+- Candy Floor
 
 #### Sayani
 - Ballon Table
@@ -275,7 +276,7 @@ Zoitsa, Khan
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull]
 - [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah]
 - [ ] __Candy Lamp__
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour]

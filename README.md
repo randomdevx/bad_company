@@ -225,74 +225,74 @@ Zoitsa, Khan
 # COMPLETE FURNITURE SETS
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
-* Balloon Bed [Umam, Adverfull]
-* Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull]
-* __Balloon Clock__
-* Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi]
-* Balloon Lamp [Zoitsa, Adverfull]
-* Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
-* Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull]
-* __Balloon Sofa__
-* __Balloon TV__
-* Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull]
-* Balloon Wall [Sherlock, Simewn, Adverfull]
-* Balloon Wardrobe [Daredevil, Dany20, Nour, Marta, Adverfull]
+- [x] Balloon Bed [Umam, Adverfull]
+- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull]
+- [ ] __Balloon Clock__
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi]
+- [x] Balloon Lamp [Zoitsa, Adverfull]
+- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
+- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull]
+- [ ] __Balloon Sofa__
+- [ ] __Balloon TV__
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull]
+- [x] Balloon Wall [Sherlock, Simewn, Adverfull]
+- [x] Balloon Wardrobe [Daredevil, Dany20, Nour, Marta, Adverfull]
 
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
-* Candy Armchair [Simewn, Marta, Adverfull]
-* Candy Bed [Adverfull]
-* Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull]
-* Candy Floor [Adverfull, Esraa, Flora, Nour, Marta]
-* __Candy Lamp__
-* Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta]
-* Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour]
-* Candy Sofa [Adverfull, Nour]
-* Candy Stool [Marta, Adverfull]
-* __Candy Table__
-* Candy Wall [Flora]
-* Candy Wardrobe [Adverfull, Marta]
+- [x] Candy Armchair [Simewn, Marta, Adverfull]
+- [x] Candy Bed [Adverfull]
+- [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta]
+- [ ] __Candy Lamp__
+- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta]
+- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour]
+- [x] Candy Sofa [Adverfull, Nour]
+- [x] Candy Stool [Marta, Adverfull]
+- [ ] __Candy Table__
+- [x] Candy Wall [Flora]
+- [x] Candy Wardrobe [Adverfull, Marta]
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-* Soccer Bed [Marta, Nour, Adverfull]
-* Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta]
-* Soccer Clock [Sayani, Nour, Musarah, Adverfull]
-* __Soccer Floor__
-* Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-* Soccer Nightstand [Adverfull, Umam, Dany20]
-* Soccer Single Sofa [Machich]
-* __Soccer Sofa__
-* Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull]
-* Soccer Table [Esraa, Adverfull, Nour, Marta]
-* Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull]
-* Soccer Wardrobe [Adverfull]
+- [x] Soccer Bed [Marta, Nour, Adverfull]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta]
+- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
+- [ ] __Soccer Floor__
+- [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20]
+- [x] Soccer Single Sofa [Machich]
+- [ ] __Soccer Sofa__
+- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull]
+- [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
+- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull]
+- [x] Soccer Wardrobe [Adverfull]
 
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
-* __Space Bed__
-* __Space Chair__
-* Space Clock [Esraa, Tata_1993, Adverfull, sad123456789]
-* Space Floor [Machich, Marta, Adverfull, Khan]
-* Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20]
-* Space Nightstand [Adverfull, Ben, Marta]
-* Space Sofa [Adverfull, Sayani, Marta]
-* __Space TV__
-* __Space Table__
-* __Space Trash Bin__
-* __Space Wall__
-* Space Wardrobe [Umam]
+- [ ] __Space Bed__
+- [ ] __Space Chair__
+- [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789]
+- [x] Space Floor [Machich, Marta, Adverfull, Khan]
+- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20]
+- [x] Space Nightstand [Adverfull, Ben, Marta]
+- [x] Space Sofa [Adverfull, Sayani, Marta]
+- [ ] __Space TV__
+- [ ] __Space Table__
+- [ ] __Space Trash Bin__
+- [ ] __Space Wall__
+- [x] Space Wardrobe [Umam]
 
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
-* __Gorgeous Bed__
-* Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
-* __Gorgeous Closet__
-* __Gorgeous Floor__
-* Gorgeous Lamp[Marta]
-* Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull]
-* Gorgeous Plant[Adverfull]
-* Gorgeous Sofa [Marta, Adverfull]
-* Gorgeous Table [Adverfull]
-* Gorgeous Wall [Machich, Adverfull]
-* Gorgeous Wardrobe [Sayani, Marta]
-* __Gorgeous Whiskey Table__
+- [ ] __Gorgeous Bed__
+- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
+- [ ] __Gorgeous Closet__
+- [ ] __Gorgeous Floor__
+- [x] Gorgeous Lamp[Marta]
+- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull]
+- [x] Gorgeous Plant[Adverfull]
+- [x] Gorgeous Sofa [Marta, Adverfull]
+- [x] Gorgeous Table [Adverfull]
+- [x] Gorgeous Wall [Machich, Adverfull]
+- [x] Gorgeous Wardrobe [Sayani, Marta]
+- [ ] __Gorgeous Whiskey Table__
 
 
 # QUEUE LIST PER FURNITURE SET

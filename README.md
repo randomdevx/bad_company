@@ -128,6 +128,7 @@ Zoitsa, Khan
 
 #### Supriyadi
 - Soccer Chair
+- Balloon Floor
 
 #### Flora
 - Candy Wall
@@ -192,6 +193,7 @@ Zoitsa, Khan
 - Balloon Wardrobe
 - Balloon Nightstand
 - Candy Sofa
+- Candy Plant
 
 #### AZ
 - Candy Plant
@@ -225,7 +227,7 @@ Zoitsa, Khan
 * Balloon Bed [Umam, Adverfull]
 * Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull]
 * Balloon Clock
-* Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta]
+* Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi]
 * Balloon Lamp [Zoitsa, Adverfull]
 * Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
 * Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull]
@@ -242,7 +244,7 @@ Zoitsa, Khan
 * Candy Floor [Adverfull, Esraa, Flora, Nour, Marta]
 * Candy Lamp
 * Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta]
-* Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull]
+* Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour]
 * Candy Sofa [Adverfull, Nour]
 * Candy Stool [Marta, Adverfull]
 * Candy Table

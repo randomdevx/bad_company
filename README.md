@@ -66,6 +66,7 @@ Zoitsa, Khan
 - Candy Nightstand
 - Candy Plant
 - Candy Chair
+- Soccer Stool
 
 #### Adverfull
 - Soccer Nightstand
@@ -161,6 +162,7 @@ Zoitsa, Khan
 - Gorgeous Chair
 - Space Sofa
 - Gorgeous Wardrobe
+- Balloon Plant
 
 #### Supriyadi
 - Soccer Chair
@@ -270,7 +272,7 @@ Zoitsa, Khan
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi]
 - [x] Balloon Lamp [Zoitsa, Adverfull]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
-- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull]
+- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani]
 - [ ] __Balloon Sofa__
 - [ ] __Balloon TV__
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull]
@@ -300,7 +302,7 @@ Zoitsa, Khan
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome]
 - [x] Soccer Single Sofa [Machich]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull]
+- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
 - [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora]
 - [x] Soccer Wardrobe [Adverfull]

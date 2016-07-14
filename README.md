@@ -25,9 +25,9 @@ Zoitsa, Khan
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 |![](/img/Balloon-clock.png)         |![](/img/Balloon-Sofa.png)          |![](/img/Balloon-TVset.png)         |
 
-|Candy Lamp                          |Candy Table                         |
-|:----------------------------------:|:----------------------------------:|
-|![](/img/Candy-lamp.png)            |![](/img/Candy-table.png)           |
+|Candy Lamp                          |Candy Table                         |Candy Wall                          |
+|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+|![](/img/Candy-lamp.png)            |![](/img/Candy-table.png)           |![](/img/Candy-wall.png)            |
 
 |Soccer Floor                        |Soccer Sofa                         |
 |:----------------------------------:|:----------------------------------:|
@@ -285,7 +285,7 @@ Zoitsa, Khan
 - [x] Candy Sofa [Adverfull, Nour]
 - [x] Candy Stool [Marta, Adverfull]
 - [ ] __Candy Table__
-- [x] Candy Wall
+- [ ] __Candy Wall__
 - [x] Candy Wardrobe [Adverfull, Marta]
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]

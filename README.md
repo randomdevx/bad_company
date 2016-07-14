@@ -128,6 +128,8 @@ Zoitsa, Khan
 #### Daredevil
 - Balloon Wardrobe
 - Candy Chair
+- Candy Plant
+- Soccer Stool
 
 #### Umam
 - Soccer Stool
@@ -248,6 +250,7 @@ Zoitsa, Khan
 #### SherlocksAwesome
 - Balloon Wall
 - Soccer Nightstand
+- Candy Nightstand
 
 #### Ben
 - Soccer Stool
@@ -285,8 +288,8 @@ Zoitsa, Khan
 - [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah]
 - [x] Candy Lamp [Adverfull]
-- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta]
-- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour]
+- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock]
+- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil]
 - [x] Candy Sofa [Adverfull, Nour]
 - [x] Candy Stool [Marta, Adverfull, Tonia]
 - [ ] __Candy Table__
@@ -302,7 +305,7 @@ Zoitsa, Khan
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome]
 - [x] Soccer Single Sofa [Machich]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa]
+- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
 - [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora]
 - [x] Soccer Wardrobe [Adverfull]

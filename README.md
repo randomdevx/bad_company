@@ -133,10 +133,10 @@ Zoitsa, Khan
 - Soccer Stool
 - Soccer Nightstand
 - Soccer Lamp
-- Ballon Table
-- Ballon Floor
-- Ballon Nightstand
-- Ballon Bed
+- Balloon Table
+- Balloon Floor
+- Balloon Nightstand
+- Balloon Bed
 - Candy Plant
 - Gorgeous Nightstand
 - Space Wardrobe
@@ -155,7 +155,7 @@ Zoitsa, Khan
 - Candy Floor
 
 #### Sayani
-- Ballon Table
+- Balloon Table
 - Soccer Stool
 - Soccer Clock
 - Candy Nightstand

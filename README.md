@@ -54,7 +54,7 @@ Zoitsa, Khan
 # FURNITURE PER MEMBER
 
 #### Khan
-- Soccer Chair
+- Soccer Chair (2x)
 - Balloon Nightstand
 - Gorgeous Nightstand
 - Space Lamp

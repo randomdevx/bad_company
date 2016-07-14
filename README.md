@@ -105,6 +105,7 @@ Zoitsa, Khan
 - Candy Armchair
 - Candy Bed
 - Candy Chair
+- Candy Lamp
 
 #### LilPrinnie
 - Balloon Nightstand
@@ -279,7 +280,7 @@ Zoitsa, Khan
 - [x] Candy Bed [Adverfull]
 - [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah]
-- [ ] __Candy Lamp__
+- [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour]
 - [x] Candy Sofa [Adverfull, Nour]

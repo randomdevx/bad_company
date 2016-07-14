@@ -165,8 +165,10 @@ Zoitsa, Khan
 - Balloon Floor
 
 #### Flora
-- Candy Wall
 - Candy Floor
+- Balloon Chair
+- Soccer Wall
+- Space Nightstand
 
 #### Marta
 - Soccer Bed
@@ -260,7 +262,7 @@ Zoitsa, Khan
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull]
-- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull]
+- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi]
 - [x] Balloon Lamp [Zoitsa, Adverfull]
@@ -283,7 +285,7 @@ Zoitsa, Khan
 - [x] Candy Sofa [Adverfull, Nour]
 - [x] Candy Stool [Marta, Adverfull]
 - [ ] __Candy Table__
-- [x] Candy Wall [Flora]
+- [x] Candy Wall
 - [x] Candy Wardrobe [Adverfull, Marta]
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
@@ -297,7 +299,7 @@ Zoitsa, Khan
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
-- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull]
+- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora]
 - [x] Soccer Wardrobe [Adverfull]
 
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
@@ -306,7 +308,7 @@ Zoitsa, Khan
 - [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789]
 - [x] Space Floor [Machich, Marta, Adverfull, Khan]
 - [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20]
-- [x] Space Nightstand [Adverfull, Ben, Marta]
+- [x] Space Nightstand [Adverfull, Ben, Marta, Flora]
 - [x] Space Sofa [Adverfull, Sayani, Marta]
 - [ ] __Space TV__
 - [ ] __Space Table__

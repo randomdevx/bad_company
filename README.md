@@ -54,7 +54,7 @@ Zoitsa, Khan
 # FURNITURE PER MEMBER
 
 #### Khan
-- Soccer Chair (2x)
+- Soccer Chair (3x)
 - Balloon Nightstand
 - Gorgeous Nightstand
 - Space Lamp
@@ -78,6 +78,7 @@ Zoitsa, Khan
 - Soccer Clock
 - Soccer Bed
 - Soccer Wardrobe
+- Soccer Single Sofa
 - Space Lamp
 - Space Sofa
 - Space Nightstand
@@ -303,7 +304,7 @@ Zoitsa, Khan
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome]
-- [x] Soccer Single Sofa [Machich]
+- [x] Soccer Single Sofa [Machich, Adverfull]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]

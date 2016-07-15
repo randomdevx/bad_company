@@ -25,30 +25,44 @@ Zoitsa, Khan
 |Balloon Clock                       |Balloon Sofa                        |Balloon TV                          |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 |![](/img/Balloon-clock.png)         |![](/img/Balloon-Sofa.png)          |![](/img/Balloon-TVset.png)         |
+|Epic                                |Rare                                |Epic                                |
 
 |Candy Table                         |Candy Wall                          |
 |:----------------------------------:|:----------------------------------:|
 |![](/img/Candy-table.png)           |![](/img/Candy-wall.png)            |
+|Legendary                           |Rare                                |
 
 |Soccer Floor                        |Soccer Sofa                         |
 |:----------------------------------:|:----------------------------------:|
 |![](/img/soccer-set_floor.png)      |![](/img/soccer-set_sofa.png)       |
+|Legendary                           |Epic                                |
 
 |Space Chair                         |Space TV                            |Space Bed                           |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 |![](/img/space_chair.png)           |![](/img/space_tv-set.png)          |![](/img/space_bed.png)             |
+|Epic                                |Epic                                |Legendary                           |
 
 |Space Table                         |Space Wall                          |Space Trash Bin                     |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 |![](/img/space_table.png)           |![](/img/space_wall.png)            |![](/img/space_trash-bin.png)       |
+|Legendary                           |Epic                                |Epic                                |
 
 |Gorgeous Closet                     |Gorgeous Bed                        |Gorgeous Floor                      |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 |![](/img/Gorgeous-Set-closet.png)   |![](/img/Gorgeous-Set-bed.png)      |![](/img/Gorgeous-Set-floor.png)    |
+|Uncommon                            |Legendary                           |Rare                                |
 
 |Gorgeous Whiskey Table              |
 |:----------------------------------:|
-|![](/img/Gorgeous-Set-whisky-t.png)|
+|![](/img/Gorgeous-Set-whisky-t.png) |
+|Legendary                           |
+
+##### Legend (Sorted by rarity)
+1. Common
+2. Uncommon
+3. Rare
+4. Epic
+5. Legendary
 
 
 # FURNITURE PER MEMBER

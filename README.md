@@ -145,6 +145,7 @@ Zoitsa, Khan
 - Candy Chair
 - Candy Plant
 - Soccer Stool
+- Soccer Nightstand
 
 #### Umam
 - Soccer Stool
@@ -233,6 +234,7 @@ Zoitsa, Khan
 - Space Lamp
 - Soccer Lamp
 - Candy Stool
+- Soccer Nightstand
 
 #### Esraa
 - Soccer Table
@@ -317,7 +319,7 @@ Zoitsa, Khan
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Daredevil, Tonia]
 - [x] Soccer Single Sofa [Machich, Adverfull]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil]

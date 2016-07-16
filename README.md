@@ -68,11 +68,14 @@ Zoitsa, Khan
 # FURNITURE PER MEMBER
 
 #### Khan
-- Soccer Chair (3x)
+- Soccer Chair
 - Balloon Nightstand
 - Gorgeous Nightstand
 - Space Lamp
 - Space Floor
+- Candy Chair
+- Candy Nightstand
+- Candy Plant
 
 #### Zoitsa
 - Balloon Lamp
@@ -81,6 +84,7 @@ Zoitsa, Khan
 - Candy Plant
 - Candy Chair
 - Soccer Stool
+- Soccer Chair
 
 #### Adverfull
 - Soccer Nightstand
@@ -304,11 +308,11 @@ Zoitsa, Khan
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull]
-- [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull, Dany20]
+- [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull, Dany20, Khan]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah]
 - [x] Candy Lamp [Adverfull]
-- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock]
-- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil]
+- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan]
+- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan]
 - [x] Candy Sofa [Adverfull, Nour]
 - [x] Candy Stool [Marta, Adverfull, Tonia]
 - [ ] __Candy Table__
@@ -317,7 +321,7 @@ Zoitsa, Khan
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa]
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]

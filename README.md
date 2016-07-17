@@ -27,10 +27,10 @@ Zoitsa, Khan
 |![](/img/Balloon-clock.png)         |![](/img/Balloon-Sofa.png)          |![](/img/Balloon-TVset.png)         |
 |Epic                                |Rare                                |Epic                                |
 
-|Candy Table                         |Candy Wall                          |
-|:----------------------------------:|:----------------------------------:|
-|![](/img/Candy-table.png)           |![](/img/Candy-wall.png)            |
-|Legendary                           |Rare                                |
+|Candy Table                         |
+|:----------------------------------:|
+|![](/img/Candy-table.png)           |
+|Legendary                           |
 
 |Soccer Floor                        |Soccer Sofa                         |
 |:----------------------------------:|:----------------------------------:|
@@ -47,15 +47,11 @@ Zoitsa, Khan
 |![](/img/space_table.png)           |![](/img/space_wall.png)            |![](/img/space_trash-bin.png)       |
 |Legendary                           |Epic                                |Epic                                |
 
-|Gorgeous Closet                     |Gorgeous Bed                        |Gorgeous Floor                      |
+|Gorgeous Bed                        |Gorgeous Floor                      |Gorgeous Whiskey Table              |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
-|![](/img/Gorgeous-Set-closet.png)   |![](/img/Gorgeous-Set-bed.png)      |![](/img/Gorgeous-Set-floor.png)    |
-|Uncommon                            |Legendary                           |Rare                                |
+|![](/img/Gorgeous-Set-bed.png)      |![](/img/Gorgeous-Set-floor.png)    |![](/img/Gorgeous-Set-whisky-t.png) |
+|Legendary                           |Rare                                |Legendary                           |
 
-|Gorgeous Whiskey Table              |
-|:----------------------------------:|
-|![](/img/Gorgeous-Set-whisky-t.png) |
-|Legendary                           |
 
 ##### Legend (Sorted by rarity)
 1. Common

@@ -81,6 +81,7 @@ Zoitsa, Khan
 - Candy Chair
 - Soccer Stool
 - Soccer Chair
+- Soccer Wall
 
 #### Adverfull
 - Soccer Nightstand
@@ -139,7 +140,7 @@ Zoitsa, Khan
 - Candy Arm Chair
 - Balloon Floor
 - Balloon Plant
-- Balloon Wall
+- Balloon Wall (2x)
 - Balloon Nightstand
 - Soccer Stool
 
@@ -187,6 +188,7 @@ Zoitsa, Khan
 - Space Sofa
 - Gorgeous Wardrobe
 - Balloon Plant
+- Soccer Chair
 
 #### Supriyadi
 - Soccer Chair
@@ -323,7 +325,7 @@ Zoitsa, Khan
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani]
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
@@ -332,7 +334,7 @@ Zoitsa, Khan
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
-- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora]
+- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora, Zoitsa]
 - [x] Soccer Wardrobe [Adverfull]
 
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]

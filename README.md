@@ -102,6 +102,7 @@ Zoitsa, Khan
 - Space Nightstand
 - Space Clock
 - Space Floor
+- Space Wardrobe
 - Balloon Floor
 - Balloon Wall
 - Balloon Lamp
@@ -117,6 +118,7 @@ Zoitsa, Khan
 - Gorgeous Nightstand
 - Gorgeous Plant
 - Gorgeous Sofa
+- Gorgeous Closet
 - Candy Stool
 - Candy Nightstand
 - Candy Wardrobe
@@ -127,6 +129,7 @@ Zoitsa, Khan
 - Candy Bed
 - Candy Chair
 - Candy Lamp
+- Candy Wall
 
 #### LilPrinnie
 - Balloon Nightstand
@@ -150,6 +153,8 @@ Zoitsa, Khan
 - Candy Plant
 - Soccer Stool
 - Soccer Nightstand
+- Gorgeous Nightstand
+- Balloon Chair (x2)
 
 #### Umam
 - Soccer Stool
@@ -293,7 +298,7 @@ Zoitsa, Khan
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull]
-- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora]
+- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789]
 - [x] Balloon Lamp [Zoitsa, Adverfull]
@@ -316,7 +321,7 @@ Zoitsa, Khan
 - [x] Candy Sofa [Adverfull, Nour]
 - [x] Candy Stool [Marta, Adverfull, Tonia]
 - [ ] __Candy Table__
-- [ ] __Candy Wall__
+- [x] Candy Wall [Adverfull]
 - [x] Candy Wardrobe [Adverfull, Marta]
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
@@ -345,15 +350,15 @@ Zoitsa, Khan
 - [ ] __Space Table__
 - [ ] __Space Trash Bin__
 - [ ] __Space Wall__
-- [x] Space Wardrobe [Umam]
+- [x] Space Wardrobe [Umam, Adverfull]
 
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
-- [ ] __Gorgeous Closet__
+- [x] Gorgeous Closet [Adverfull]
 - [ ] __Gorgeous Floor__
 - [x] Gorgeous Lamp[Marta]
-- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull]
+- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil]
 - [x] Gorgeous Plant[Adverfull]
 - [x] Gorgeous Sofa [Marta, Adverfull]
 - [x] Gorgeous Table [Adverfull]

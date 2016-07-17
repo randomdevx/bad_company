@@ -145,13 +145,14 @@ Zoitsa, Khan
 - Soccer Stool
 
 #### Daredevil
-- Balloon Wardrobe
-- Candy Chair
 - Candy Plant
 - Soccer Stool
 - Space Clock
 - Gorgeous Nightstand
+- Balloon Table
 - Balloon Chair
+- Balloon Plant
+- Balloon Floor
 - Candy Floor
 
 #### Umam
@@ -299,20 +300,20 @@ Zoitsa, Khan
 - [x] Balloon Bed [Umam, Adverfull]
 - [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil]
 - [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789]
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil]
 - [x] Balloon Lamp [Zoitsa, Adverfull]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
-- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani]
+- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
 - [ ] __Balloon Sofa__
 - [ ] __Balloon TV__
-- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull]
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
-- [x] Balloon Wardrobe [Daredevil, Dany20, Nour, Marta, Adverfull]
+- [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull]
 
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull]
-- [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull, Dany20, Khan]
+- [x] Candy Chair [LilPrinnie, Zoitsa, Adverfull, Dany20, Khan]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan]

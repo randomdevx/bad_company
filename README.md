@@ -148,9 +148,10 @@ Zoitsa, Khan
 - Candy Chair
 - Candy Plant
 - Soccer Stool
-- Soccer Nightstand
+- Space Clock
 - Gorgeous Nightstand
-- Balloon Chair (x2)
+- Balloon Chair
+- Candy Floor
 
 #### Umam
 - Soccer Stool
@@ -310,7 +311,7 @@ Zoitsa, Khan
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull]
 - [x] Candy Chair [LilPrinnie, Daredevil, Zoitsa, Adverfull, Dany20, Khan]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan]
@@ -326,7 +327,7 @@ Zoitsa, Khan
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Daredevil, Tonia]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
 - [x] Soccer Single Sofa [Machich, Adverfull]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil]
@@ -337,7 +338,7 @@ Zoitsa, Khan
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 - [ ] __Space Bed__
 - [ ] __Space Chair__
-- [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789]
+- [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil]
 - [x] Space Floor [Machich, Marta, Adverfull, Khan]
 - [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20]
 - [x] Space Nightstand [Adverfull, Ben, Marta, Flora]

@@ -198,8 +198,11 @@ Zoitsa, Khan
 #### Flora
 - Candy Floor
 - Balloon Chair
+- Balloon Table
 - Soccer Wall
+- Soccer Chair
 - Space Nightstand
+- Gorgeous Sofa
 
 #### Marta
 - Soccer Bed
@@ -306,7 +309,7 @@ Zoitsa, Khan
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
 - [ ] __Balloon Sofa__
 - [ ] __Balloon TV__
-- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil]
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull]
 
@@ -326,7 +329,7 @@ Zoitsa, Khan
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora]
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
@@ -360,7 +363,7 @@ Zoitsa, Khan
 - [x] Gorgeous Lamp[Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil]
 - [x] Gorgeous Plant[Adverfull]
-- [x] Gorgeous Sofa [Marta, Adverfull]
+- [x] Gorgeous Sofa [Marta, Adverfull, Flora]
 - [x] Gorgeous Table [Adverfull]
 - [x] Gorgeous Wall [Machich, Adverfull]
 - [x] Gorgeous Wardrobe [Sayani, Marta]

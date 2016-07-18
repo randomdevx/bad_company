@@ -154,6 +154,7 @@ Zoitsa, Khan
 - Balloon Plant
 - Balloon Floor
 - Candy Floor
+- Soccer Bed
 
 #### Umam
 - Soccer Stool
@@ -179,6 +180,7 @@ Zoitsa, Khan
 - Soccer Lamp
 - Soccer Clock
 - Candy Floor
+- Candy Plant
 
 #### Sayani
 - Balloon Table
@@ -320,7 +322,7 @@ Zoitsa, Khan
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan]
-- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan]
+- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah]
 - [x] Candy Sofa [Adverfull, Nour]
 - [x] Candy Stool [Marta, Adverfull, Tonia]
 - [ ] __Candy Table__
@@ -328,7 +330,7 @@ Zoitsa, Khan
 - [x] Candy Wardrobe [Adverfull, Marta]
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-- [x] Soccer Bed [Marta, Nour, Adverfull]
+- [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil]
 - [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora]
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
 - [ ] __Soccer Floor__

@@ -194,6 +194,7 @@ Zoitsa, Khan
 - Gorgeous Wardrobe
 - Balloon Plant
 - Soccer Chair
+- Space Lamp
 
 #### Supriyadi
 - Soccer Chair
@@ -298,6 +299,7 @@ Zoitsa, Khan
 #### sad123456789
 - Balloon Table
 - Balloon Floor
+- Candy Nightstand
 - Space Clock
 
 
@@ -323,7 +325,7 @@ Zoitsa, Khan
 - [x] Candy Chair [LilPrinnie, Zoitsa, Adverfull, Dany20, Khan]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil]
 - [x] Candy Lamp [Adverfull]
-- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan]
+- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah]
 - [x] Candy Sofa [Adverfull, Nour]
 - [x] Candy Stool [Marta, Adverfull, Tonia]
@@ -350,7 +352,7 @@ Zoitsa, Khan
 - [ ] __Space Chair__
 - [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil]
 - [x] Space Floor [Machich, Marta, Adverfull, Khan]
-- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20]
+- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani]
 - [x] Space Nightstand [Adverfull, Ben, Marta, Flora]
 - [x] Space Sofa [Adverfull, Sayani, Marta]
 - [ ] __Space TV__

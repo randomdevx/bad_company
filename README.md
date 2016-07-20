@@ -67,12 +67,14 @@ Zoitsa, Khan
 - Soccer Chair
 - Balloon Nightstand
 - Balloon Chair
+- Balloon Sofa
 - Gorgeous Nightstand
 - Space Lamp
 - Space Floor
 - Candy Chair (2x)
 - Candy Nightstand
 - Candy Plant
+- Candy Stool
 
 #### Zoitsa
 - Balloon Lamp
@@ -316,7 +318,7 @@ Zoitsa, Khan
 - [x] Balloon Lamp [Zoitsa, Adverfull]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
-- [ ] __Balloon Sofa__
+- [x] Balloon Sofa [Khan]
 - [ ] __Balloon TV__
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
@@ -331,7 +333,7 @@ Zoitsa, Khan
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah]
 - [x] Candy Sofa [Adverfull, Nour]
-- [x] Candy Stool [Marta, Adverfull, Tonia]
+- [x] Candy Stool [Marta, Adverfull, Tonia, Khan]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull]
 - [x] Candy Wardrobe [Adverfull, Marta]

@@ -22,10 +22,10 @@ Zoitsa, Khan
 
 # ITEMS WE ARE MISSING
 
-|Balloon Clock                       |Balloon Sofa                        |Balloon TV                          |
-|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-|![](/img/Balloon-clock.png)         |![](/img/Balloon-Sofa.png)          |![](/img/Balloon-TVset.png)         |
-|Epic                                |Rare                                |Epic                                |
+|Balloon Clock                       |Balloon TV                          |
+|:----------------------------------:|:----------------------------------:|
+|![](/img/Balloon-clock.png)         |![](/img/Balloon-TVset.png)         |
+|Epic                                |Epic                                |
 
 |Candy Table                         |
 |:----------------------------------:|

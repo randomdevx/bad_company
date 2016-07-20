@@ -291,6 +291,7 @@ Zoitsa, Khan
 - Balloon Wall
 - Soccer Nightstand
 - Candy Nightstand
+- Gorgeous Nightstand
 
 #### Ben
 - Soccer Stool
@@ -372,7 +373,7 @@ Zoitsa, Khan
 - [x] Gorgeous Closet [Adverfull]
 - [ ] __Gorgeous Floor__
 - [x] Gorgeous Lamp[Marta]
-- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa]
+- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks]
 - [x] Gorgeous Plant[Adverfull]
 - [x] Gorgeous Sofa [Marta, Adverfull, Flora]
 - [x] Gorgeous Table [Adverfull]

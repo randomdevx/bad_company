@@ -248,12 +248,13 @@ Zoitsa, Khan
 - Space Lamp
 
 #### Tonia
-- Candy Plant
 - Balloon Plant
 - Space Lamp
 - Soccer Lamp
-- Candy Stool
 - Soccer Nightstand
+- Candy Stool (2x)
+- Candy Plant
+- Candy Floor
 
 #### Esraa
 - Soccer Table
@@ -325,7 +326,7 @@ Zoitsa, Khan
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull]
 - [x] Candy Chair [LilPrinnie, Zoitsa, Adverfull, Dany20, Khan]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah]

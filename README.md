@@ -372,7 +372,7 @@ Zoitsa, Khan
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
 - [x] Gorgeous Closet [Adverfull]
 - [ ] __Gorgeous Floor__
-- [x] Gorgeous Lamp[Marta]
+- [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks]
 - [x] Gorgeous Plant[Adverfull]
 - [x] Gorgeous Sofa [Marta, Adverfull, Flora]

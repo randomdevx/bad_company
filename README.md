@@ -82,10 +82,12 @@ Zoitsa, Khan
 - Candy Nightstand
 - Candy Plant
 - Candy Chair
+- Candy Sofa
 - Soccer Stool
-- Soccer Chair
+- Soccer Chair (2x)
 - Soccer Wall
 - Gorgeous Nightstand
+- Gorgeous Wall
 
 #### Adverfull
 - Soccer Nightstand
@@ -333,7 +335,7 @@ Zoitsa, Khan
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah]
-- [x] Candy Sofa [Adverfull, Nour]
+- [x] Candy Sofa [Adverfull, Nour, Zoitsa]
 - [x] Candy Stool [Marta, Adverfull, Tonia, Khan]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull]
@@ -377,7 +379,7 @@ Zoitsa, Khan
 - [x] Gorgeous Plant[Adverfull]
 - [x] Gorgeous Sofa [Marta, Adverfull, Flora]
 - [x] Gorgeous Table [Adverfull]
-- [x] Gorgeous Wall [Machich, Adverfull]
+- [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
 - [x] Gorgeous Wardrobe [Sayani, Marta]
 - [ ] __Gorgeous Whiskey Table__
 

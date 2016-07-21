@@ -79,13 +79,15 @@ Zoitsa, Khan
 
 #### Zoitsa
 - Balloon Lamp
+- Balloon Table
 - Space Lamp
 - Candy Nightstand
 - Candy Plant
 - Candy Chair
 - Candy Sofa
+- Candy Stool
 - Soccer Stool
-- Soccer Chair (2x)
+- Soccer Chair
 - Soccer Wall
 - Gorgeous Nightstand
 - Gorgeous Wall
@@ -152,7 +154,7 @@ Zoitsa, Khan
 - Soccer Stool
 
 #### Daredevil
-- Candy Plant
+- Candy Plant (2x)
 - Soccer Stool
 - Space Clock
 - Gorgeous Nightstand (3x)
@@ -310,6 +312,7 @@ Zoitsa, Khan
 - Balloon Floor
 - Candy Nightstand
 - Space Clock
+- Gorgeous Closet
 
 
 # COMPLETE FURNITURE SETS
@@ -324,7 +327,7 @@ Zoitsa, Khan
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
 - [x] Balloon Sofa [Khan]
 - [ ] __Balloon TV__
-- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour]
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull]
 
@@ -337,7 +340,7 @@ Zoitsa, Khan
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah]
 - [x] Candy Sofa [Adverfull, Nour, Zoitsa]
-- [x] Candy Stool [Marta, Adverfull, Tonia, Khan]
+- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull]
 - [x] Candy Wardrobe [Adverfull, Marta]
@@ -373,7 +376,7 @@ Zoitsa, Khan
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
-- [x] Gorgeous Closet [Adverfull]
+- [x] Gorgeous Closet [Adverfull, sad123456789]
 - [x] Gorgeous Floor [Khan]
 - [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks]

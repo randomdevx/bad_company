@@ -47,10 +47,10 @@ Zoitsa, Khan
 |![](/img/space_table.png)           |![](/img/space_wall.png)            |![](/img/space_trash-bin.png)       |
 |Legendary                           |Epic                                |Epic                                |
 
-|Gorgeous Bed                        |Gorgeous Floor                      |Gorgeous Whiskey Table              |
-|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-|![](/img/Gorgeous-Set-bed.png)      |![](/img/Gorgeous-Set-floor.png)    |![](/img/Gorgeous-Set-whisky-t.png) |
-|Legendary                           |Rare                                |Legendary                           |
+|Gorgeous Bed                        |Gorgeous Whiskey Table              |
+|:----------------------------------:|:----------------------------------:|
+|![](/img/Gorgeous-Set-bed.png)      |![](/img/Gorgeous-Set-whisky-t.png) |
+|Legendary                           |Legendary                           |
 
 
 ##### Legend (Sorted by rarity)

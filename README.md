@@ -69,6 +69,7 @@ Zoitsa, Khan
 - Balloon Chair
 - Balloon Sofa
 - Gorgeous Nightstand
+- Gorgeous Floor
 - Space Lamp
 - Space Floor
 - Candy Chair (2x)
@@ -154,7 +155,7 @@ Zoitsa, Khan
 - Candy Plant
 - Soccer Stool
 - Space Clock
-- Gorgeous Nightstand
+- Gorgeous Nightstand (3x)
 - Balloon Table
 - Balloon Chair
 - Balloon Plant
@@ -373,7 +374,7 @@ Zoitsa, Khan
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
 - [x] Gorgeous Closet [Adverfull]
-- [ ] __Gorgeous Floor__
+- [x] Gorgeous Floor [Khan]
 - [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks]
 - [x] Gorgeous Plant[Adverfull]

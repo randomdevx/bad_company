@@ -262,6 +262,7 @@ Zoitsa, Khan
 - Candy Stool (2x)
 - Candy Plant
 - Candy Floor
+- Gorgeous Closet
 
 #### Esraa
 - Soccer Table
@@ -376,7 +377,7 @@ Zoitsa, Khan
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
-- [x] Gorgeous Closet [Adverfull, sad123456789]
+- [x] Gorgeous Closet [Adverfull, sad123456789, Tonia]
 - [x] Gorgeous Floor [Khan]
 - [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks]

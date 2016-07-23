@@ -158,7 +158,7 @@ Zoitsa, Khan
 - Soccer Stool
 - Space Clock
 - Gorgeous Nightstand (3x)
-- Balloon Table
+- Balloon Table (2x)
 - Balloon Chair
 - Balloon Plant
 - Balloon Floor
@@ -311,6 +311,7 @@ Zoitsa, Khan
 #### sad123456789
 - Balloon Table
 - Balloon Floor
+- Balloon Chair
 - Candy Nightstand
 - Space Clock
 - Gorgeous Closet
@@ -320,7 +321,7 @@ Zoitsa, Khan
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull]
-- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil, Khan]
+- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil, Khan, sad123456789]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20]
 - [x] Balloon Lamp [Zoitsa, Adverfull]

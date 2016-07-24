@@ -232,6 +232,8 @@ Zoitsa, Khan
 - Balloon Plant
 - Soccer Chair
 - Space Lamp
+- Candy Stool
+- Candy Sofa
 
 #### Supriyadi
 - Soccer Chair
@@ -379,8 +381,8 @@ Zoitsa, Khan
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
-- [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn]
-- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf]
+- [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani]
+- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull, Esraa, Simewn]
 - [x] Candy Wardrobe [Adverfull, Marta]

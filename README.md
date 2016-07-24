@@ -4,10 +4,21 @@ This is a page for Factory Deco you have and want to make available for the club
 
 The main idea is to collectively complete the furniture sets, so we can take turns with the set to catch the fish in the factory. Then the furniture set is traded to another member.
 
-The rules to get in the queue list for a set are as follow:
-* Every item traded shall return to its original owner when all the members catch the unlocked fish or the queue list is empty.
-* There will be a queue list for members to request a given set of furniture. A period of time will be assigned for the furniture in your possession, in which you should catch the unlocked fish or you will have to request again to be placed in the queue list.
-* Every item should be traded for a price of 500 fb as an insurance. This does not mean you own the item. That said, the player requesting a queue for a set should have 6k fb available.
+#### Trade guidelines
+* There will be a queue list for members to request a given collection of furniture. A period of time will be assigned for that collection in your possession, in which you should catch the unlocked fish or you will have to request again to be placed in the queue list.
+* Every item traded shall return to its original owner when the queue list for said collection is empty.
+* The member in current possession of a collection, alongside the next member in the queue list, are responsible of being online at the assigned datetime for the trade transaction. Failure to comply, the missing member shall absorve the rent fees for the day, in the case there is any.
+* There will be an insurance cost and a rent cost per item.
+  1. The insurance, is a flat fee assigned by the item owner, considering the market value or rarity of said item, to ensure the event in which an item doesn't return to its original owner. 
+  2. The rent, is a daily fee assigned by the item owner when said owner wants to be an asshat and profit from the rest of the group. We will obviously prioritize members willing to loan their items for free or the cheapest.
+
+#### Trade procedure
+* BEFORE any trade, an in-game confirmation message should be sent by Zoitsa/Khan. Without this confirmation the trade of the collection shouldn't happen to avoid forgery.
+* A trade session should start between the current holder of a collection (SENDER) and the next member in the queue list (RECEIVER). 
+* The SENDER is responsible of receiving the total insurance cost assigned to that collection.
+* The RECEIVER is responsible of receiving the entire collection of 12 items.
+* AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
+* In the event a collection also has rent fees. Those fees will be paid directly to the item owners with set fees. Further trades session with each item owner will be necessary.
 
 #### Notes
 > - This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing to avoid issues later on write your ideas below.
@@ -435,12 +446,6 @@ Zoitsa, Khan
 
 
 # QUEUE LIST PER FURNITURE SET
-
-### Trade guidelines: 
-* Remember, the insurance price per item is 500 fb. Each set is 12 items, meaning 6k fb total.
-* The member in current possession of the set is responsible for trading the set to the next member in the queue list.
-* BEFORE any trade, an in-game confirmation message should be sent by Zoitsa/Khan. Without this confirmation the trade of the set shouldn't happen to avoid forgery.
-* AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 

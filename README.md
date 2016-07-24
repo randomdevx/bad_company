@@ -89,6 +89,7 @@ Zoitsa, Khan
 - Soccer Stool
 - Soccer Chair
 - Soccer Wall
+- Soccer Clock
 - Gorgeous Nightstand
 - Gorgeous Wall
 
@@ -158,11 +159,12 @@ Zoitsa, Khan
 - Soccer Stool
 - Space Clock
 - Gorgeous Nightstand (3x)
+- Balloon Sofa
 - Balloon Table (2x)
 - Balloon Chair
 - Balloon Plant
 - Balloon Floor
-- Candy Floor
+- Candy Floor (2x)
 - Soccer Bed
 
 #### Umam
@@ -265,12 +267,15 @@ Zoitsa, Khan
 - Gorgeous Closet
 
 #### Esraa
+- Balloon Chair
+- Soccer Single Sofa
 - Soccer Table
 - Gorgeous Nightstand
 - Gorgeous Chair
 - Space Clock
 - Soccer Chair
 - Candy Floor
+- Candy Wall
 
 #### Nour
 - Soccer Clock
@@ -315,19 +320,20 @@ Zoitsa, Khan
 - Candy Nightstand
 - Space Clock
 - Gorgeous Closet
+- Soccer Wall
 
 
 # COMPLETE FURNITURE SETS
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull]
-- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil, Khan, sad123456789]
+- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20]
 - [x] Balloon Lamp [Zoitsa, Adverfull]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
-- [x] Balloon Sofa [Khan]
+- [x] Balloon Sofa [Khan, Daredevil]
 - [ ] __Balloon TV__
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
@@ -344,21 +350,21 @@ Zoitsa, Khan
 - [x] Candy Sofa [Adverfull, Nour, Zoitsa]
 - [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa]
 - [ ] __Candy Table__
-- [x] Candy Wall [Adverfull]
+- [x] Candy Wall [Adverfull, Esraa]
 - [x] Candy Wardrobe [Adverfull, Marta]
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil]
 - [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora]
-- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull]
+- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
-- [x] Soccer Single Sofa [Machich, Adverfull]
+- [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
-- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora, Zoitsa]
+- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora, Zoitsa, sad123456789]
 - [x] Soccer Wardrobe [Adverfull]
 
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]

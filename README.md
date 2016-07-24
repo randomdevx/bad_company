@@ -126,6 +126,7 @@ Zoitsa, Khan
 - Gorgeous Plant
 - Gorgeous Sofa
 - Gorgeous Closet
+- Gorgeous Floor
 - Candy Stool
 - Candy Nightstand
 - Candy Wardrobe
@@ -419,7 +420,7 @@ Zoitsa, Khan
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull]
 - [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn]
-- [x] Gorgeous Floor [Khan]
+- [x] Gorgeous Floor [Khan, Adverfull]
 - [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn]
 - [x] Gorgeous Plant[Adverfull]

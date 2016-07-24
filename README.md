@@ -37,15 +37,15 @@ Zoitsa, Khan
 |![](/img/soccer-set_floor.png)      |![](/img/soccer-set_sofa.png)       |
 |Legendary                           |Epic                                |
 
-|Space Chair                         |Space TV                            |Space Bed                           |
-|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-|![](/img/space_chair.png)           |![](/img/space_tv-set.png)          |![](/img/space_bed.png)             |
-|Epic                                |Epic                                |Legendary                           |
+|Space Chair                         |Space Bed                           |
+|:----------------------------------:|:----------------------------------:|
+|![](/img/space_chair.png)           |![](/img/space_bed.png)             |
+|Epic                                |Legendary                           |
 
-|Space Table                         |Space Wall                          |Space Trash Bin                     |
-|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-|![](/img/space_table.png)           |![](/img/space_wall.png)            |![](/img/space_trash-bin.png)       |
-|Legendary                           |Epic                                |Epic                                |
+|Space Table                         |Space Wall                          |
+|:----------------------------------:|:----------------------------------:|
+|![](/img/space_table.png)           |![](/img/space_wall.png)            |
+|Legendary                           |Epic                                |
 
 |Gorgeous Bed                        |Gorgeous Whiskey Table              |
 |:----------------------------------:|:----------------------------------:|

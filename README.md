@@ -442,5 +442,112 @@ Zoitsa, Khan
 * BEFORE any trade, an in-game confirmation message should be sent by Zoitsa/Khan. Without this confirmation the trade of the set shouldn't happen to avoid forgery.
 * AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
 
-### BALLOON SET
-* 
+### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Balloon Bed        |              | 500       | 0        |
+| Balloon Chair      |              | 500       | 0        |
+| Balloon Clock      |              | 500       | 0        |
+| Balloon Floor      |              | 500       | 0        |
+| Balloon Lamp       |              | 500       | 0        |
+| Balloon Nightstand |              | 500       | 0        |
+| Balloon Plant      |              | 500       | 0        |
+| Balloon Sofa       |              | 500       | 0        |
+| Balloon TV         |              | 500       | 0        |
+| Balloon Table      |              | 500       | 0        |
+| Balloon Wall       |              | 500       | 0        |
+| Balloon Wardrobe   |              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Candy Armchair     |              | 500       | 0        |
+| Candy Bed          |              | 500       | 0        |
+| Candy Chair        |              | 500       | 0        |
+| Candy Floor        |              | 500       | 0        |
+| Candy Lamp         |              | 500       | 0        |
+| Candy Nightstand   |              | 500       | 0        |
+| Candy Plant        |              | 500       | 0        |
+| Candy Sofa         |              | 500       | 0        |
+| Candy Stool        |              | 500       | 0        |
+| Candy Table        |              | 500       | 0        |
+| Candy Wall         |              | 500       | 0        |
+| Candy Wardrobe     |              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Soccer Bed         |              | 500       | 0        |
+| Soccer Chair       |              | 500       | 0        |
+| Soccer Clock       |              | 500       | 0        |
+| Soccer Floor       |              | 500       | 0        |
+| Soccer Lamp        |              | 500       | 0        |
+| Soccer Nightstand  |              | 500       | 0        |
+| Soccer Single      |              | 500       | 0        |
+| Soccer Sofa        |              | 500       | 0        |
+| Soccer Stool       |              | 500       | 0        |
+| Soccer Table       |              | 500       | 0        |
+| Soccer Wall        |              | 500       | 0        |
+| Soccer Wardrobe    |              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Space Bed          |              | 500       | 0        |
+| Space Chair        |              | 500       | 0        |
+| Space Clock        |              | 500       | 0        |
+| Space Floor        |              | 500       | 0        |
+| Space Lamp         |              | 500       | 0        |
+| Space Nightstand   |              | 500       | 0        |
+| Space Sofa         |              | 500       | 0        |
+| Space TV           |              | 500       | 0        |
+| Space Table        |              | 500       | 0        |
+| Space Trash        |              | 500       | 0        |
+| Space Wall         |              | 500       | 0        |
+| Space Wardrobe     |              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Gorgeous Bed       |              | 500       | 0        |
+| Gorgeous Chair     |              | 500       | 0        |
+| Gorgeous Closet    |              | 500       | 0        |
+| Gorgeous Floor     |              | 500       | 0        |
+| Gorgeous Lamp      |              | 500       | 0        |
+| Gorgeous Nightstand|              | 500       | 0        |
+| Gorgeous Plant     |              | 500       | 0        |
+| Gorgeous Sofa      |              | 500       | 0        |
+| Gorgeous Table     |              | 500       | 0        |
+| Gorgeous Wall      |              | 500       | 0        |
+| Gorgeous Wardrobe  |              | 500       | 0        |
+| Gorgeous Whiskey T.|              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |

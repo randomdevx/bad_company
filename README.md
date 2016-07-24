@@ -86,6 +86,7 @@ Zoitsa, Khan
 - Candy Chair
 - Candy Sofa
 - Candy Stool
+- Candy Bed
 - Soccer Stool
 - Soccer Chair
 - Soccer Wall
@@ -376,7 +377,7 @@ Zoitsa, Khan
 
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
-- [x] Candy Bed [Adverfull, Hcyucvuyf]
+- [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
 - [x] Candy Chair [LilPrinnie, Zoitsa, Adverfull, Dany20, Khan, Simewn]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn]
 - [x] Candy Lamp [Adverfull]

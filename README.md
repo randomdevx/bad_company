@@ -152,7 +152,10 @@ Zoitsa, Khan
 - Balloon Plant
 - Balloon Wall (2x)
 - Balloon Nightstand
+- Balloon Wardrobe
 - Soccer Stool
+- Space TV
+- Space Trash Bin
 
 #### Daredevil
 - Candy Plant (2x)
@@ -337,7 +340,7 @@ Zoitsa, Khan
 - [ ] __Balloon TV__
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
-- [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull]
+- [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn]
 
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
@@ -375,9 +378,9 @@ Zoitsa, Khan
 - [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani]
 - [x] Space Nightstand [Adverfull, Ben, Marta, Flora]
 - [x] Space Sofa [Adverfull, Sayani, Marta]
-- [ ] __Space TV__
+- [x] Space TV [Simewn]
 - [ ] __Space Table__
-- [ ] __Space Trash Bin__
+- [x] Space Trash Bin [Simewn]
 - [ ] __Space Wall__
 - [x] Space Wardrobe [Umam, Adverfull]
 

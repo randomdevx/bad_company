@@ -340,6 +340,10 @@ Zoitsa, Khan
 
 #### Hcyucvuyf
 - Balloon Nightstand
+- Balloon Table
+- Candy Stool
+- Candy Bed
+- Soccer Stool
 
 #### sad123456789
 - Balloon Table
@@ -363,20 +367,20 @@ Zoitsa, Khan
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn]
 - [ ] __Balloon TV__
-- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn]
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf)
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn]
 
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
-- [x] Candy Bed [Adverfull]
+- [x] Candy Bed [Adverfull, Hcyucvuyf]
 - [x] Candy Chair [LilPrinnie, Zoitsa, Adverfull, Dany20, Khan, Simewn]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
 - [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn]
-- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn]
+- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull, Esraa, Simewn]
 - [x] Candy Wardrobe [Adverfull, Marta]
@@ -390,7 +394,7 @@ Zoitsa, Khan
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil]
+- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
 - [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn]
 - [x] Soccer Wardrobe [Adverfull, Simewn]

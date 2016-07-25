@@ -452,22 +452,26 @@ Zoitsa, Khan
 | Item               | Owner        | Insurance | Rent/Day |
 |:-------------------|:-------------|----------:|---------:|
 | Balloon Bed        |              | 500       | 0        |
-| Balloon Chair      |              | 500       | 0        |
+| Balloon Chair      | Khan         | 0         | 0        |
 | Balloon Clock      |              | 500       | 0        |
 | Balloon Floor      |              | 500       | 0        |
 | Balloon Lamp       |              | 500       | 0        |
-| Balloon Nightstand |              | 500       | 0        |
+| Balloon Nightstand | Khan         | 0         | 0        |
 | Balloon Plant      |              | 500       | 0        |
-| Balloon Sofa       |              | 500       | 0        |
+| Balloon Sofa       | Khan         | 0         | 0        |
 | Balloon TV         |              | 500       | 0        |
 | Balloon Table      |              | 500       | 0        |
 | Balloon Wall       |              | 500       | 0        |
 | Balloon Wardrobe   |              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
+| __Total__          |              | 4.5K      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
-|                  |               |               |      |           |
+| sad123456789     | 10JUN16 23:00 | 11JUN16 23:00 | 1    |           |
+| Tata `next`      | 07JUN16 23:00 | 10JUN16 23:00 | 3    |           |
+| __Machich__      | 06JUN16 23:00 | 07JUN16 23:00 | 1    |           |
+| ~~Zoitsa~~       | 06JUN16 02:00 | 06JUN16 23:00 | 1    | None      |
+| ~~Khan~~         | 05JUN16 00:00 | 06JUN16 02:00 | 2    | None      |
 
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 

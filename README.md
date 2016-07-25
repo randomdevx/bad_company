@@ -220,6 +220,8 @@ Zoitsa, Khan
 - Soccer Wall
 - Soccer Lamp
 - Soccer Clock
+- Soccer Chair (2x)
+- Balloon Floor
 - Candy Floor
 - Candy Plant
 
@@ -365,7 +367,7 @@ Zoitsa, Khan
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
 - [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
 - [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20]
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
@@ -391,7 +393,7 @@ Zoitsa, Khan
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah]
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]

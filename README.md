@@ -381,6 +381,7 @@ Zoitsa, Khan
 - Balloon Table
 - Balloon Floor
 - Balloon Chair
+- Balloon Nightstand
 - Candy Nightstand
 - Space Clock
 - Gorgeous Closet
@@ -395,7 +396,7 @@ Zoitsa, Khan
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
-- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa]
+- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn]
 - [ ] __Balloon TV__

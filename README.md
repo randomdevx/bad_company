@@ -63,13 +63,202 @@ Zoitsa, Khan
 |![](/img/Gorgeous-Set-bed.png)      |![](/img/Gorgeous-Set-whisky-t.png) |
 |Legendary                           |Legendary                           |
 
-
 ##### Legend (Sorted by rarity)
 1. Common
 2. Uncommon
 3. Rare
 4. Epic
 5. Legendary
+
+
+# QUEUE LIST PER FURNITURE SET
+
+### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Balloon Bed        |              | 500       | 0        |
+| Balloon Chair      | Khan         | 0         | 0        |
+| Balloon Clock      |              | 500       | 0        |
+| Balloon Floor      |              | 500       | 0        |
+| Balloon Lamp       |              | 500       | 0        |
+| Balloon Nightstand | Khan         | 0         | 0        |
+| Balloon Plant      |              | 500       | 0        |
+| Balloon Sofa       | Khan         | 0         | 0        |
+| Balloon TV         |              | 500       | 0        |
+| Balloon Table      |              | 500       | 0        |
+| Balloon Wall       |              | 500       | 0        |
+| Balloon Wardrobe   |              | 500       | 0        |
+| __Total__          |              | 4.5K      | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+| sad123456789     | 10JUN16 23:00 | 11JUN16 23:00 | 1    |           |
+| Tata `next`      | 07JUN16 23:00 | 10JUN16 23:00 | 3    |           |
+| __Machich__      | 06JUN16 23:00 | 07JUN16 23:00 | 1    |           |
+| ~~Zoitsa~~       | 06JUN16 02:00 | 06JUN16 23:00 | 1    | None      |
+| ~~Khan~~         | 05JUN16 00:00 | 06JUN16 02:00 | 2    | None      |
+
+### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Candy Armchair     |              | 500       | 0        |
+| Candy Bed          |              | 500       | 0        |
+| Candy Chair        |              | 500       | 0        |
+| Candy Floor        |              | 500       | 0        |
+| Candy Lamp         |              | 500       | 0        |
+| Candy Nightstand   |              | 500       | 0        |
+| Candy Plant        |              | 500       | 0        |
+| Candy Sofa         |              | 500       | 0        |
+| Candy Stool        |              | 500       | 0        |
+| Candy Table        |              | 500       | 0        |
+| Candy Wall         |              | 500       | 0        |
+| Candy Wardrobe     |              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Soccer Bed         |              | 500       | 0        |
+| Soccer Chair       |              | 500       | 0        |
+| Soccer Clock       |              | 500       | 0        |
+| Soccer Floor       |              | 500       | 0        |
+| Soccer Lamp        |              | 500       | 0        |
+| Soccer Nightstand  |              | 500       | 0        |
+| Soccer Single      |              | 500       | 0        |
+| Soccer Sofa        |              | 500       | 0        |
+| Soccer Stool       |              | 500       | 0        |
+| Soccer Table       |              | 500       | 0        |
+| Soccer Wall        |              | 500       | 0        |
+| Soccer Wardrobe    |              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Space Bed          |              | 500       | 0        |
+| Space Chair        |              | 500       | 0        |
+| Space Clock        |              | 500       | 0        |
+| Space Floor        |              | 500       | 0        |
+| Space Lamp         |              | 500       | 0        |
+| Space Nightstand   |              | 500       | 0        |
+| Space Sofa         |              | 500       | 0        |
+| Space TV           |              | 500       | 0        |
+| Space Table        |              | 500       | 0        |
+| Space Trash        |              | 500       | 0        |
+| Space Wall         |              | 500       | 0        |
+| Space Wardrobe     |              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
+
+| Item               | Owner        | Insurance | Rent/Day |
+|:-------------------|:-------------|----------:|---------:|
+| Gorgeous Bed       |              | 500       | 0        |
+| Gorgeous Chair     |              | 500       | 0        |
+| Gorgeous Closet    |              | 500       | 0        |
+| Gorgeous Floor     |              | 500       | 0        |
+| Gorgeous Lamp      |              | 500       | 0        |
+| Gorgeous Nightstand|              | 500       | 0        |
+| Gorgeous Plant     |              | 500       | 0        |
+| Gorgeous Sofa      |              | 500       | 0        |
+| Gorgeous Table     |              | 500       | 0        |
+| Gorgeous Wall      |              | 500       | 0        |
+| Gorgeous Wardrobe  |              | 500       | 0        |
+| Gorgeous Whiskey T.|              | 500       | 0        |
+| __Total__          |              | 6K        | 0        |
+
+| Renter           | From          | To            | Days | Rent Paid |
+|:-----------------|:-------------:|:-------------:|:----:|:---------:|
+|                  |               |               |      |           |
+
+
+# COMPLETE FURNITURE SETS
+
+### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
+- [x] Balloon Bed [Umam, Adverfull, Simewn]
+- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
+- [ ] __Balloon Clock__
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah]
+- [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
+- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
+- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
+- [x] Balloon Sofa [Khan, Daredevil, Simewn]
+- [ ] __Balloon TV__
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich]
+- [x] Balloon Wall [Sherlock, Simewn, Adverfull]
+- [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich]
+
+### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
+- [x] Candy Armchair [Simewn, Marta, Adverfull]
+- [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
+- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich]
+- [x] Candy Lamp [Adverfull]
+- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
+- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
+- [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani]
+- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich]
+- [ ] __Candy Table__
+- [x] Candy Wall [Adverfull, Esraa, Simewn]
+- [x] Candy Wardrobe [Adverfull, Marta]
+
+### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
+- [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah]
+- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich]
+- [ ] __Soccer Floor__
+- [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
+- [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
+- [ ] __Soccer Sofa__
+- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich]
+- [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
+- [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
+- [x] Soccer Wardrobe [Adverfull, Simewn]
+
+### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
+- [ ] __Space Bed__
+- [ ] __Space Chair__
+- [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
+- [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn]
+- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich]
+- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich]
+- [x] Space Sofa [Adverfull, Sayani, Marta]
+- [x] Space TV [Simewn]
+- [ ] __Space Table__
+- [x] Space Trash Bin [Simewn]
+- [ ] __Space Wall__
+- [x] Space Wardrobe [Umam, Adverfull, Musarah]
+
+### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
+- [ ] __Gorgeous Bed__
+- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich]
+- [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn]
+- [x] Gorgeous Floor [Khan, Adverfull]
+- [x] Gorgeous Lamp [Marta]
+- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn, Machich]
+- [x] Gorgeous Plant[Adverfull]
+- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich]
+- [x] Gorgeous Table [Adverfull, Simewn]
+- [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
+- [x] Gorgeous Wardrobe [Sayani, Marta, Simewn]
+- [ ] __Gorgeous Whiskey Table__
 
 
 # FURNITURE PER MEMBER
@@ -386,193 +575,3 @@ Zoitsa, Khan
 - Space Clock
 - Gorgeous Closet
 - Soccer Wall
-
-
-# COMPLETE FURNITURE SETS
-
-### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
-- [x] Balloon Bed [Umam, Adverfull, Simewn]
-- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
-- [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah]
-- [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
-- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
-- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
-- [x] Balloon Sofa [Khan, Daredevil, Simewn]
-- [ ] __Balloon TV__
-- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich]
-- [x] Balloon Wall [Sherlock, Simewn, Adverfull]
-- [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich]
-
-### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
-- [x] Candy Armchair [Simewn, Marta, Adverfull]
-- [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
-- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich]
-- [x] Candy Lamp [Adverfull]
-- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
-- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
-- [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani]
-- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich]
-- [ ] __Candy Table__
-- [x] Candy Wall [Adverfull, Esraa, Simewn]
-- [x] Candy Wardrobe [Adverfull, Marta]
-
-### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-- [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah]
-- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich]
-- [ ] __Soccer Floor__
-- [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
-- [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
-- [ ] __Soccer Sofa__
-- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich]
-- [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
-- [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
-- [x] Soccer Wardrobe [Adverfull, Simewn]
-
-### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
-- [ ] __Space Bed__
-- [ ] __Space Chair__
-- [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
-- [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn]
-- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich]
-- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich]
-- [x] Space Sofa [Adverfull, Sayani, Marta]
-- [x] Space TV [Simewn]
-- [ ] __Space Table__
-- [x] Space Trash Bin [Simewn]
-- [ ] __Space Wall__
-- [x] Space Wardrobe [Umam, Adverfull, Musarah]
-
-### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
-- [ ] __Gorgeous Bed__
-- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich]
-- [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn]
-- [x] Gorgeous Floor [Khan, Adverfull]
-- [x] Gorgeous Lamp [Marta]
-- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn, Machich]
-- [x] Gorgeous Plant[Adverfull]
-- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich]
-- [x] Gorgeous Table [Adverfull, Simewn]
-- [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
-- [x] Gorgeous Wardrobe [Sayani, Marta, Simewn]
-- [ ] __Gorgeous Whiskey Table__
-
-
-# QUEUE LIST PER FURNITURE SET
-
-### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
-
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Balloon Bed        |              | 500       | 0        |
-| Balloon Chair      | Khan         | 0         | 0        |
-| Balloon Clock      |              | 500       | 0        |
-| Balloon Floor      |              | 500       | 0        |
-| Balloon Lamp       |              | 500       | 0        |
-| Balloon Nightstand | Khan         | 0         | 0        |
-| Balloon Plant      |              | 500       | 0        |
-| Balloon Sofa       | Khan         | 0         | 0        |
-| Balloon TV         |              | 500       | 0        |
-| Balloon Table      |              | 500       | 0        |
-| Balloon Wall       |              | 500       | 0        |
-| Balloon Wardrobe   |              | 500       | 0        |
-| __Total__          |              | 4.5K      | 0        |
-
-| Renter           | From          | To            | Days | Rent Paid |
-|:-----------------|:-------------:|:-------------:|:----:|:---------:|
-| sad123456789     | 10JUN16 23:00 | 11JUN16 23:00 | 1    |           |
-| Tata `next`      | 07JUN16 23:00 | 10JUN16 23:00 | 3    |           |
-| __Machich__      | 06JUN16 23:00 | 07JUN16 23:00 | 1    |           |
-| ~~Zoitsa~~       | 06JUN16 02:00 | 06JUN16 23:00 | 1    | None      |
-| ~~Khan~~         | 05JUN16 00:00 | 06JUN16 02:00 | 2    | None      |
-
-### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
-
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Candy Armchair     |              | 500       | 0        |
-| Candy Bed          |              | 500       | 0        |
-| Candy Chair        |              | 500       | 0        |
-| Candy Floor        |              | 500       | 0        |
-| Candy Lamp         |              | 500       | 0        |
-| Candy Nightstand   |              | 500       | 0        |
-| Candy Plant        |              | 500       | 0        |
-| Candy Sofa         |              | 500       | 0        |
-| Candy Stool        |              | 500       | 0        |
-| Candy Table        |              | 500       | 0        |
-| Candy Wall         |              | 500       | 0        |
-| Candy Wardrobe     |              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
-
-| Renter           | From          | To            | Days | Rent Paid |
-|:-----------------|:-------------:|:-------------:|:----:|:---------:|
-|                  |               |               |      |           |
-
-### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Soccer Bed         |              | 500       | 0        |
-| Soccer Chair       |              | 500       | 0        |
-| Soccer Clock       |              | 500       | 0        |
-| Soccer Floor       |              | 500       | 0        |
-| Soccer Lamp        |              | 500       | 0        |
-| Soccer Nightstand  |              | 500       | 0        |
-| Soccer Single      |              | 500       | 0        |
-| Soccer Sofa        |              | 500       | 0        |
-| Soccer Stool       |              | 500       | 0        |
-| Soccer Table       |              | 500       | 0        |
-| Soccer Wall        |              | 500       | 0        |
-| Soccer Wardrobe    |              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
-
-| Renter           | From          | To            | Days | Rent Paid |
-|:-----------------|:-------------:|:-------------:|:----:|:---------:|
-|                  |               |               |      |           |
-
-### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
-
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Space Bed          |              | 500       | 0        |
-| Space Chair        |              | 500       | 0        |
-| Space Clock        |              | 500       | 0        |
-| Space Floor        |              | 500       | 0        |
-| Space Lamp         |              | 500       | 0        |
-| Space Nightstand   |              | 500       | 0        |
-| Space Sofa         |              | 500       | 0        |
-| Space TV           |              | 500       | 0        |
-| Space Table        |              | 500       | 0        |
-| Space Trash        |              | 500       | 0        |
-| Space Wall         |              | 500       | 0        |
-| Space Wardrobe     |              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
-
-| Renter           | From          | To            | Days | Rent Paid |
-|:-----------------|:-------------:|:-------------:|:----:|:---------:|
-|                  |               |               |      |           |
-
-### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
-
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Gorgeous Bed       |              | 500       | 0        |
-| Gorgeous Chair     |              | 500       | 0        |
-| Gorgeous Closet    |              | 500       | 0        |
-| Gorgeous Floor     |              | 500       | 0        |
-| Gorgeous Lamp      |              | 500       | 0        |
-| Gorgeous Nightstand|              | 500       | 0        |
-| Gorgeous Plant     |              | 500       | 0        |
-| Gorgeous Sofa      |              | 500       | 0        |
-| Gorgeous Table     |              | 500       | 0        |
-| Gorgeous Wall      |              | 500       | 0        |
-| Gorgeous Wardrobe  |              | 500       | 0        |
-| Gorgeous Whiskey T.|              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
-
-| Renter           | From          | To            | Days | Rent Paid |
-|:-----------------|:-------------:|:-------------:|:----:|:---------:|
-|                  |               |               |      |           |

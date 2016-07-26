@@ -91,6 +91,7 @@ Zoitsa, Khan
 #### Zoitsa
 - Balloon Lamp
 - Balloon Table
+- Balloon Nightstand
 - Space Lamp
 - Candy Nightstand
 - Candy Plant
@@ -233,6 +234,7 @@ Zoitsa, Khan
 - Soccer Clock
 - Soccer Chair (2x)
 - Balloon Floor
+- Space Wardrobe
 - Candy Floor
 - Candy Plant
 
@@ -380,7 +382,7 @@ Zoitsa, Khan
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
-- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull]
+- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull, Zoitsa]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn]
 - [ ] __Balloon TV__
@@ -428,7 +430,7 @@ Zoitsa, Khan
 - [ ] __Space Table__
 - [x] Space Trash Bin [Simewn]
 - [ ] __Space Wall__
-- [x] Space Wardrobe [Umam, Adverfull]
+- [x] Space Wardrobe [Umam, Adverfull, Musarah]
 
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__

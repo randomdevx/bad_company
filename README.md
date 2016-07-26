@@ -5,23 +5,24 @@ This is a page for Factory Deco you have and want to make available for the club
 The main idea is to collectively complete the furniture sets, so we can take turns with the set to catch the fish in the factory. Then the furniture set is traded to another member.
 
 #### Trade guidelines
-* There will be a queue list for members to request a given collection of furniture. A period of time will be assigned for that collection in your possession, in which you should catch the unlocked fish or you will have to request again to be placed in the queue list.
+* There will be a queue list for members to request a given collection of furniture. A period of time will be assigned for that collection in your possession, in which you should catch the unlocked fish. If your time expires without being able to catch the fish, you can request to be placed in the queue list again.
 * Every item traded shall return to its original owner when the queue list for said collection is empty.
-* The member in current possession of a collection, alongside the next member in the queue list, are responsible of being online at the assigned date-time for the trade transaction. Failure to comply, the missing member shall absorve the rent fees for the day, in the case there is any.
+* The member in current possession of a collection, alongside the next member in the queue list, are responsible of being online at the assigned date-time for the trade transaction. Failure to comply, the missing member shall absorve the rent fees for the day, in the case there are any.
 * There will be an insurance cost and a rent cost per item.
   1. The insurance, is a flat fee assigned by the item owner, considering the market value or rarity of said item, to ensure the event in which an item doesn't return to its original owner.
   2. The rent, is a daily fee assigned by the item owner when said owner wants to be an ass-hat and profit from the rest of the group. We will obviously prioritize members willing to loan their items for free or the cheapest.
 
 #### Trade procedure
-* BEFORE any trade, an in-game confirmation message should be sent by Zoitsa/Khan. Without this confirmation the trade of the collection shouldn't happen to avoid forgery.
-* A trade session should start between the current holder of a collection (SENDER) and the next member in the queue list (RECEIVER).
-* The SENDER is responsible of receiving the total insurance cost assigned to that collection.
-* The RECEIVER is responsible of receiving the entire collection of 12 items.
-* AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
-* In the event a collection also has rent fees, those fees will be paid directly to each item owner with set fees. Further trade sessions will be necessary.
+1. BEFORE any trade, an in-game confirmation message should be sent by Zoitsa/Khan. Without this confirmation, to avoid forgery, the trade of the collection shouldn't begin.
+2. A trade session should start between the current holder of a collection (SENDER) and the next member in the queue list (RECEIVER).
+3. The SENDER is responsible of receiving the total insurance cost assigned to that collection.
+4. The RECEIVER is responsible of receiving the entire collection of 12 items.
+5. Considering only 6 items can be traded per trade session, the split is left at the will and desire of both parties involved.
+6. AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
+7. In the event a collection has rent fees, those will be paid directly to each item owner with set fees. Further trade sessions will be necessary.
 
 #### Notes
-> - This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing and avoid issues later on, write your ideas below.
+> - This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing and avoid issues later on, write them below.
 > - To view a list of confirmed changes to this file go to https://github.com/randomdevx/bad_company/commits/master
 > - To view a pretty print of this file go to https://github.com/randomdevx/bad_company
 > - If you get double furniture mark them with a (2x) next to the corresponding item. If possible prioritize selling those repeated items to other club members.

@@ -194,7 +194,7 @@ Zoitsa, Khan
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
 - [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah]
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
@@ -212,7 +212,7 @@ Zoitsa, Khan
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
-- [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani]
+- [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani, Ben]
 - [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull, Esraa, Simewn]
@@ -228,7 +228,7 @@ Zoitsa, Khan
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich]
-- [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
+- [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
 - [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
 
@@ -237,7 +237,7 @@ Zoitsa, Khan
 - [ ] __Space Chair__
 - [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
 - [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn]
-- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich]
+- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich, Ben]
 - [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich]
 - [x] Space Sofa [Adverfull, Sayani, Marta]
 - [x] Space TV [Simewn]
@@ -558,6 +558,10 @@ Zoitsa, Khan
 - Space Nightstand
 - Candy Plant
 - Balloon Plant
+- Balloon Floor
+- Soccer Table
+- Space Lamp
+- Candy Sofa
 
 #### Hcyucvuyf
 - Balloon Nightstand

@@ -195,7 +195,7 @@ Zoitsa, Khan
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
 - [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben]
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
@@ -209,7 +209,7 @@ Zoitsa, Khan
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
 - [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Zoitsa]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
@@ -249,13 +249,13 @@ Zoitsa, Khan
 
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
-- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich]
+- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich, Zoitsa]
 - [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn]
 - [x] Gorgeous Floor [Khan, Adverfull]
 - [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn, Machich]
 - [x] Gorgeous Plant[Adverfull]
-- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich]
+- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Zoitsa]
 - [x] Gorgeous Table [Adverfull, Simewn]
 - [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
 - [x] Gorgeous Wardrobe [Sayani, Marta, Simewn]
@@ -265,10 +265,11 @@ Zoitsa, Khan
 # FURNITURE PER MEMBER
 
 #### Khan
-- Soccer Chair
+- Soccer Chair (2x)
 - Balloon Nightstand
 - Balloon Chair
 - Balloon Sofa
+- Balloon Floor
 - Gorgeous Nightstand
 - Gorgeous Floor
 - Space Lamp
@@ -277,6 +278,7 @@ Zoitsa, Khan
 - Candy Nightstand
 - Candy Plant
 - Candy Stool
+- Candy Floor
 
 #### Zoitsa
 - Balloon Lamp
@@ -289,12 +291,15 @@ Zoitsa, Khan
 - Candy Sofa
 - Candy Stool
 - Candy Bed
+- Candy Floor
 - Soccer Stool
 - Soccer Chair
 - Soccer Wall
 - Soccer Clock
 - Gorgeous Nightstand
 - Gorgeous Wall
+- Gorgeous Chair
+- Gorgeous Sofa
 
 #### Adverfull
 - Soccer Nightstand

@@ -152,13 +152,6 @@ Zoitsa, Khan
 - Candy Lamp
 - Candy Wall
 
-#### LilPrinnie
-- Balloon Nightstand
-- Balloon Chair
-- Soccer Stool
-- Soccer Wall
-- Candy Chair
-
 #### Simewn
 - Gorgeous Chair
 - Gorgeous Closet
@@ -383,11 +376,11 @@ Zoitsa, Khan
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
-- [x] Balloon Chair [Marta, Dany20, LilPrinnie, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
+- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
-- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, LilPrinnie, Adverfull, Zoitsa]
+- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn]
 - [ ] __Balloon TV__
@@ -398,7 +391,7 @@ Zoitsa, Khan
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
-- [x] Candy Chair [LilPrinnie, Zoitsa, Adverfull, Dany20, Khan, Simewn]
+- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn]
@@ -418,9 +411,9 @@ Zoitsa, Khan
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [LilPrinnie, Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi]
+- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta]
-- [x] Soccer Wall [Musarah, Dany20, LilPrinnie, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
+- [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
 
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]

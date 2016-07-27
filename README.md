@@ -208,7 +208,7 @@ Zoitsa, Khan
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
-- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich]
+- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Zoitsa]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
@@ -222,7 +222,7 @@ Zoitsa, Khan
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil]
 - [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah]
-- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich]
+- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich, Esraa]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
@@ -525,6 +525,7 @@ Zoitsa, Khan
 - Balloon Chair
 - Soccer Single Sofa
 - Soccer Table
+- Soccer Clock
 - Gorgeous Nightstand
 - Gorgeous Chair
 - Space Clock
@@ -575,6 +576,7 @@ Zoitsa, Khan
 - Candy Stool
 - Candy Bed
 - Soccer Stool
+- Candy Chair
 
 #### sad123456789
 - Balloon Table

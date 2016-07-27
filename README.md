@@ -193,7 +193,7 @@ Zoitsa, Khan
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
-- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
+- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Musarah]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
@@ -228,7 +228,7 @@ Zoitsa, Khan
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich]
+- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
 - [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
@@ -250,7 +250,7 @@ Zoitsa, Khan
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich, Zoitsa]
-- [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn]
+- [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn, Zoitsa, Dany20]
 - [x] Gorgeous Floor [Khan, Adverfull]
 - [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn, Machich]
@@ -300,6 +300,7 @@ Zoitsa, Khan
 - Gorgeous Wall
 - Gorgeous Chair
 - Gorgeous Sofa
+- Gorgeous Closet
 
 #### Adverfull
 - Soccer Nightstand
@@ -437,6 +438,7 @@ Zoitsa, Khan
 - Soccer Clock
 - Soccer Chair (2x)
 - Balloon Floor
+- Balloon Chair
 - Space Wardrobe
 - Candy Floor
 - Candy Plant
@@ -510,6 +512,7 @@ Zoitsa, Khan
 - Balloon Floor
 - Soccer Wall
 - Space Lamp
+- Gorgeous Closet
 
 #### Tonia
 - Balloon Plant
@@ -538,6 +541,7 @@ Zoitsa, Khan
 - Soccer Chair
 - Soccer Bed
 - Soccer Table
+- Soccer Stool
 - Candy Floor
 - Balloon Wardrobe
 - Balloon Nightstand

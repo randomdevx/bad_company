@@ -81,7 +81,7 @@ Zoitsa, Khan
 | Balloon Bed        |              | 500       | 0        |
 | Balloon Chair      | Khan         | 0         | 0        |
 | Balloon Clock      |              | 500       | 0        |
-| Balloon Floor      |              | 500       | 0        |
+| Balloon Floor      | Musarah      | 0         | 0        |
 | Balloon Lamp       |              | 500       | 0        |
 | Balloon Nightstand | Khan         | 0         | 0        |
 | Balloon Plant      |              | 500       | 0        |
@@ -90,7 +90,7 @@ Zoitsa, Khan
 | Balloon Table      |              | 500       | 0        |
 | Balloon Wall       |              | 500       | 0        |
 | Balloon Wardrobe   |              | 500       | 0        |
-| __Total__          |              | 4.5K      | 0        |
+| __Total__          |              | 4K        | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
@@ -107,16 +107,16 @@ Zoitsa, Khan
 | Candy Armchair     |              | 500       | 0        |
 | Candy Bed          |              | 500       | 0        |
 | Candy Chair        |              | 500       | 0        |
-| Candy Floor        |              | 500       | 0        |
+| Candy Floor        | Musarah      | 300       | 0        |
 | Candy Lamp         |              | 500       | 0        |
 | Candy Nightstand   |              | 500       | 0        |
-| Candy Plant        |              | 500       | 0        |
+| Candy Plant        | Musarah      | 200       | 0        |
 | Candy Sofa         |              | 500       | 0        |
 | Candy Stool        |              | 500       | 0        |
 | Candy Table        |              | 500       | 0        |
 | Candy Wall         |              | 500       | 0        |
 | Candy Wardrobe     |              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
+| __Total__          |              | 5.5k      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
@@ -127,18 +127,18 @@ Zoitsa, Khan
 | Item               | Owner        | Insurance | Rent/Day |
 |:-------------------|:-------------|----------:|---------:|
 | Soccer Bed         |              | 500       | 0        |
-| Soccer Chair       |              | 500       | 0        |
-| Soccer Clock       |              | 500       | 0        |
+| Soccer Chair       | Musarah      | 300       | 0        |
+| Soccer Clock       | Musarah      | 300       | 0        |
 | Soccer Floor       |              | 500       | 0        |
-| Soccer Lamp        |              | 500       | 0        |
+| Soccer Lamp        | Musarah      | 300       | 0        |
 | Soccer Nightstand  |              | 500       | 0        |
 | Soccer Single      |              | 500       | 0        |
 | Soccer Sofa        |              | 500       | 0        |
 | Soccer Stool       |              | 500       | 0        |
 | Soccer Table       |              | 500       | 0        |
-| Soccer Wall        |              | 500       | 0        |
+| Soccer Wall        | Musarah      | 300       | 0        |
 | Soccer Wardrobe    |              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
+| __Total__          |              | 5.2K      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
@@ -159,8 +159,8 @@ Zoitsa, Khan
 | Space Table        |              | 500       | 0        |
 | Space Trash        |              | 500       | 0        |
 | Space Wall         |              | 500       | 0        |
-| Space Wardrobe     |              | 500       | 0        |
-| __Total__          |              | 6K        | 0        |
+| Space Wardrobe     | Musarah      | 200       | 0        |
+| __Total__          |              | 5.7K      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|

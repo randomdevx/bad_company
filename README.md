@@ -198,7 +198,7 @@ Zoitsa, Khan
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
-- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
+- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn]
 - [ ] __Balloon TV__
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich]
@@ -225,7 +225,7 @@ Zoitsa, Khan
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich, Esraa]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour]
@@ -284,6 +284,7 @@ Zoitsa, Khan
 - Balloon Lamp
 - Balloon Table
 - Balloon Nightstand
+- Balloon Plant
 - Space Lamp
 - Candy Nightstand
 - Candy Plant
@@ -296,6 +297,7 @@ Zoitsa, Khan
 - Soccer Chair
 - Soccer Wall
 - Soccer Clock
+- Soccer Nightstand
 - Gorgeous Nightstand
 - Gorgeous Wall
 - Gorgeous Chair

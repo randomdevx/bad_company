@@ -21,15 +21,30 @@ The main idea is to collectively complete the furniture sets, so we can take tur
 6. AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
 7. In the event a collection has rent fees, those will be paid directly to each item owner with set fees. Further trade sessions will be necessary.
 
-#### Notes
+Thank you
+Zoitsa, Khan
+
+
+### Notes
 > - This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing and avoid issues later on, write them below.
 > - To view a list of confirmed changes to this file go to https://github.com/randomdevx/bad_company/commits/master
 > - To view a pretty print of this file go to https://github.com/randomdevx/bad_company
 > - If you get double furniture mark them with a (2x) next to the corresponding item. If possible prioritize selling those repeated items to other club members.
 > - Please don't sell unique items (furniture that currently only you have in the group).
 
-Thank you
-Zoitsa, Khan
+
+### FAQ
+* __Why the insurance rate changes between items, instead of being a flat 500fb ?__
+
+We can't decide for other members what is the value of their items or if they aren't willing to loan it for free (rent). However, we will prioritize choosing items from members with low or no insurance and no rent fees. 
+
+* __Why do we have to pay for rent ?__
+
+Hopefully, we won't have to. But in the scenario of a really rare and difficult item to find, belonging to an outside player unwilling to loan it free, some of us are willing to pay an extra for the luxury of said item for a few days. __It's also an incentive for our members to hunt down those rare items, instead of just waiting__. Also an incentive for an outside player that has the item.
+
+Paying for a rent is optional, also paying for a collection with insurance so high you can't cover it. So, if you don't subscribe to the queue list of said collection, you won't need to pay for anything.
+
+Remember, our interests is to bring the collections to our members as soon as possible and as cheap as possible, so we can unlock and catch the 5 fishes.
 
 
 # ITEMS WE ARE MISSING

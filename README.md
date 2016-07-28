@@ -243,7 +243,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour]
+- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
 - [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
@@ -280,7 +280,8 @@ Remember, our interests is to bring the collections to our members as soon as po
 # FURNITURE PER MEMBER
 
 #### Khan
-- Soccer Chair (2x)
+- Soccer Chair (2x) [100fb]
+- Soccer Stool
 - Balloon Nightstand
 - Balloon Chair
 - Balloon Sofa
@@ -289,7 +290,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Gorgeous Floor
 - Space Lamp
 - Space Floor
-- Candy Chair (2x)
+- Candy Chair (2x) [440fb]
 - Candy Nightstand
 - Candy Plant
 - Candy Stool

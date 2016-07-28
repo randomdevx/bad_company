@@ -214,7 +214,7 @@ Zoitsa, Khan
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
 - [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani, Ben]
-- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich]
+- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich, sad123456789]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull, Esraa, Simewn]
 - [x] Candy Wardrobe [Adverfull, Marta]
@@ -237,10 +237,10 @@ Zoitsa, Khan
 - [ ] __Space Bed__
 - [ ] __Space Chair__
 - [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
-- [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn]
+- [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn, Zoitsa]
 - [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich, Ben]
 - [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich]
-- [x] Space Sofa [Adverfull, Sayani, Marta]
+- [x] Space Sofa [Adverfull, Sayani, Marta, Zoitsa]
 - [x] Space TV [Simewn]
 - [ ] __Space Table__
 - [x] Space Trash Bin [Simewn]
@@ -256,7 +256,7 @@ Zoitsa, Khan
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn, Machich]
 - [x] Gorgeous Plant[Adverfull]
 - [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Zoitsa]
-- [x] Gorgeous Table [Adverfull, Simewn]
+- [x] Gorgeous Table [Adverfull, Simewn, Zoitsa]
 - [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
 - [x] Gorgeous Wardrobe [Sayani, Marta, Simewn]
 - [ ] __Gorgeous Whiskey Table__
@@ -286,6 +286,8 @@ Zoitsa, Khan
 - Balloon Nightstand
 - Balloon Plant
 - Space Lamp
+- Space Sofa
+- Space Floor
 - Candy Nightstand
 - Candy Plant
 - Candy Chair
@@ -303,6 +305,7 @@ Zoitsa, Khan
 - Gorgeous Chair
 - Gorgeous Sofa
 - Gorgeous Closet
+- Gorgeous Table
 
 #### Adverfull
 - Soccer Nightstand
@@ -590,6 +593,7 @@ Zoitsa, Khan
 - Balloon Chair
 - Balloon Nightstand
 - Candy Nightstand
+- Candy Stool
 - Space Clock
 - Gorgeous Closet
 - Soccer Wall

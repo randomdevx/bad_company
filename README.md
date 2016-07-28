@@ -235,15 +235,15 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Candy Wardrobe [Adverfull, Marta]
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-- [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah]
-- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich, Esraa]
+- [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil, Dany20]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah, Arshi1]
+- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich, Esraa, Arshi1]
 - [ ] __Soccer Floor__
-- [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
+- [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull, Arshi1]
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan]
+- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan, Arshi1]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
 - [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
@@ -264,7 +264,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
-- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich, Zoitsa]
+- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich, Zoitsa, Arshi1]
 - [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn, Zoitsa, Dany20]
 - [x] Gorgeous Floor [Khan, Adverfull]
 - [x] Gorgeous Lamp [Marta]
@@ -525,6 +525,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Candy Plant
 - Candy Chair
 - Soccer Nightstand
+- Soccer Bed
 - Balloon Nightstand
 - Soccer Chair
 - Soccer Stool
@@ -613,3 +614,10 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Space Clock
 - Gorgeous Closet
 - Soccer Wall
+
+#### Arshi1
+- Soccer Clock
+- Soccer Chair
+- Soccer Lamp
+- Soccer Stool
+- Gorgeous Chair

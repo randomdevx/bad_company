@@ -29,7 +29,7 @@ Zoitsa, Khan
 > - This is a draft for the procedure we think should be followed. If there are suggestions or a better way to go about sharing and avoid issues later on, write them below.
 > - To view a list of confirmed changes to this file go to https://github.com/randomdevx/bad_company/commits/master
 > - To view a pretty print of this file go to https://github.com/randomdevx/bad_company
-> - If you get double furniture mark them with a (2x) next to the corresponding item. If possible prioritize selling those repeated items to other club members.
+> - If you get double furniture, mark them with a (2x) next to the corresponding item. If possible prioritize trading or selling those repeated items with other club members. Use the following format, next to the item name to mark your price [600fb]. Members interested shall PM in-game to acquire it.
 > - Please don't sell unique items (furniture that currently only you have in the group).
 
 

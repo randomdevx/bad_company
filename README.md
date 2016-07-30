@@ -91,21 +91,21 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 ### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Balloon Bed        |              | 500       | 0        |
-| Balloon Chair      | Khan         | 0         | 0        |
-| Balloon Clock      |              | 500       | 0        |
-| Balloon Floor      | Musarah      | 0         | 0        |
-| Balloon Lamp       |              | 500       | 0        |
-| Balloon Nightstand | Khan         | 0         | 0        |
-| Balloon Plant      |              | 500       | 0        |
-| Balloon Sofa       | Khan         | 0         | 0        |
-| Balloon TV         |              | 500       | 0        |
-| Balloon Table      |              | 500       | 0        |
-| Balloon Wall       |              | 500       | 0        |
-| Balloon Wardrobe   |              | 500       | 0        |
-| __Total__          |              | 4K        | 0        |
+| Item               | Owner        | Insurance | Rent/Day | Restrictions |
+|:-------------------|:-------------|----------:|---------:|:------------:|
+| Balloon Bed        |              | 500       | 0        | None         |
+| Balloon Chair      | Khan         | 0         | 0        | None         |
+| Balloon Clock      |              | 500       | 0        | None         |
+| Balloon Floor      | Musarah      | 0         | 0        | None         |
+| Balloon Lamp       |              | 500       | 0        | None         |
+| Balloon Nightstand | Khan         | 0         | 0        | None         |
+| Balloon Plant      |              | 500       | 0        | None         |
+| Balloon Sofa       | Khan         | 0         | 0        | Apply        |
+| Balloon TV         |              | 500       | 0        | None         |
+| Balloon Table      |              | 500       | 0        | None         |
+| Balloon Wall       |              | 500       | 0        | None         |
+| Balloon Wardrobe   |              | 500       | 0        | None         |
+| __Total__          |              | 4K        | 0        |              |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
@@ -117,20 +117,20 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 ### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Candy Armchair     |              | 500       | 0        |
-| Candy Bed          |              | 500       | 0        |
-| Candy Chair        |              | 500       | 0        |
-| Candy Floor        | Musarah      | 300       | 0        |
-| Candy Lamp         |              | 500       | 0        |
-| Candy Nightstand   |              | 500       | 0        |
-| Candy Plant        | Musarah      | 200       | 0        |
-| Candy Sofa         |              | 500       | 0        |
-| Candy Stool        |              | 500       | 0        |
-| Candy Table        |              | 500       | 0        |
-| Candy Wall         |              | 500       | 0        |
-| Candy Wardrobe     |              | 500       | 0        |
+| Item               | Owner        | Insurance | Rent/Day | Restrictions |
+|:-------------------|:-------------|----------:|---------:|:------------:|
+| Candy Armchair     |              | 500       | 0        | None         |
+| Candy Bed          |              | 500       | 0        | None         |
+| Candy Chair        |              | 500       | 0        | None         |
+| Candy Floor        | Musarah      | 300       | 0        | None         |
+| Candy Lamp         |              | 500       | 0        | None         |
+| Candy Nightstand   |              | 500       | 0        | None         |
+| Candy Plant        | Musarah      | 200       | 0        | None         |
+| Candy Sofa         |              | 500       | 0        | None         |
+| Candy Stool        |              | 500       | 0        | None         |
+| Candy Table        |              | 500       | 0        | None         |
+| Candy Wall         |              | 500       | 0        | None         |
+| Candy Wardrobe     |              | 500       | 0        | None         |
 | __Total__          |              | 5.5k      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
@@ -139,20 +139,20 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 ### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Soccer Bed         |              | 500       | 0        |
-| Soccer Chair       | Musarah      | 300       | 0        |
-| Soccer Clock       | Musarah      | 300       | 0        |
-| Soccer Floor       |              | 500       | 0        |
-| Soccer Lamp        | Musarah      | 300       | 0        |
-| Soccer Nightstand  |              | 500       | 0        |
-| Soccer Single      |              | 500       | 0        |
-| Soccer Sofa        |              | 500       | 0        |
-| Soccer Stool       |              | 500       | 0        |
-| Soccer Table       |              | 500       | 0        |
-| Soccer Wall        | Musarah      | 300       | 0        |
-| Soccer Wardrobe    |              | 500       | 0        |
+| Item               | Owner        | Insurance | Rent/Day | Restrictions |
+|:-------------------|:-------------|----------:|---------:|:------------:|
+| Soccer Bed         |              | 500       | 0        | None         |
+| Soccer Chair       | Musarah      | 300       | 0        | None         |
+| Soccer Clock       | Musarah      | 300       | 0        | None         |
+| Soccer Floor       |              | 500       | 0        | None         |
+| Soccer Lamp        | Musarah      | 300       | 0        | None         |
+| Soccer Nightstand  |              | 500       | 0        | None         |
+| Soccer Single      |              | 500       | 0        | None         |
+| Soccer Sofa        |              | 500       | 0        | None         |
+| Soccer Stool       |              | 500       | 0        | None         |
+| Soccer Table       |              | 500       | 0        | None         |
+| Soccer Wall        | Musarah      | 300       | 0        | None         |
+| Soccer Wardrobe    |              | 500       | 0        | None         |
 | __Total__          |              | 5.2K      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
@@ -161,20 +161,20 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 ### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Space Bed          |              | 500       | 0        |
-| Space Chair        |              | 500       | 0        |
-| Space Clock        |              | 500       | 0        |
-| Space Floor        |              | 500       | 0        |
-| Space Lamp         |              | 500       | 0        |
-| Space Nightstand   |              | 500       | 0        |
-| Space Sofa         |              | 500       | 0        |
-| Space TV           |              | 500       | 0        |
-| Space Table        |              | 500       | 0        |
-| Space Trash        |              | 500       | 0        |
-| Space Wall         |              | 500       | 0        |
-| Space Wardrobe     | Musarah      | 200       | 0        |
+| Item               | Owner        | Insurance | Rent/Day | Restrictions |
+|:-------------------|:-------------|----------:|---------:|:------------:|
+| Space Bed          |              | 500       | 0        | None         |
+| Space Chair        |              | 500       | 0        | None         |
+| Space Clock        |              | 500       | 0        | None         |
+| Space Floor        |              | 500       | 0        | None         |
+| Space Lamp         |              | 500       | 0        | None         |
+| Space Nightstand   |              | 500       | 0        | None         |
+| Space Sofa         |              | 500       | 0        | None         |
+| Space TV           |              | 500       | 0        | None         |
+| Space Table        |              | 500       | 0        | None         |
+| Space Trash        |              | 500       | 0        | None         |
+| Space Wall         |              | 500       | 0        | None         |
+| Space Wardrobe     | Musarah      | 200       | 0        | None         |
 | __Total__          |              | 5.7K      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
@@ -183,20 +183,20 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 ### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 
-| Item               | Owner        | Insurance | Rent/Day |
-|:-------------------|:-------------|----------:|---------:|
-| Gorgeous Bed       |              | 500       | 0        |
-| Gorgeous Chair     |              | 500       | 0        |
-| Gorgeous Closet    |              | 500       | 0        |
-| Gorgeous Floor     |              | 500       | 0        |
-| Gorgeous Lamp      |              | 500       | 0        |
-| Gorgeous Nightstand|              | 500       | 0        |
-| Gorgeous Plant     |              | 500       | 0        |
-| Gorgeous Sofa      |              | 500       | 0        |
-| Gorgeous Table     |              | 500       | 0        |
-| Gorgeous Wall      |              | 500       | 0        |
-| Gorgeous Wardrobe  |              | 500       | 0        |
-| Gorgeous Whiskey T.|              | 500       | 0        |
+| Item               | Owner        | Insurance | Rent/Day | Restrictions |
+|:-------------------|:-------------|----------:|---------:|:------------:|
+| Gorgeous Bed       |              | 500       | 0        | None         |
+| Gorgeous Chair     |              | 500       | 0        | None         |
+| Gorgeous Closet    |              | 500       | 0        | None         |
+| Gorgeous Floor     |              | 500       | 0        | None         |
+| Gorgeous Lamp      |              | 500       | 0        | None         |
+| Gorgeous Nightstand|              | 500       | 0        | None         |
+| Gorgeous Plant     |              | 500       | 0        | None         |
+| Gorgeous Sofa      |              | 500       | 0        | None         |
+| Gorgeous Table     |              | 500       | 0        | None         |
+| Gorgeous Wall      |              | 500       | 0        | None         |
+| Gorgeous Wardrobe  |              | 500       | 0        | None         |
+| Gorgeous Whiskey T.|              | 500       | 0        | None         |
 | __Total__          |              | 6K        | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |

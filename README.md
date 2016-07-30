@@ -49,10 +49,10 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 # ITEMS WE ARE MISSING
 
-|Balloon Clock                       |Balloon TV                          |
-|:----------------------------------:|:----------------------------------:|
-|![](/img/Balloon-clock.png)         |![](/img/Balloon-TVset.png)         |
-|Epic                                |Epic                                |
+|Balloon Clock                       |
+|:----------------------------------:|
+|![](/img/Balloon-clock.png)         |
+|Epic                                |
 
 |Candy Table                         |
 |:----------------------------------:|

@@ -215,7 +215,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn]
-- [ ] __Balloon TV__
+- [x] Balloon TV [Simewn]
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich]
@@ -299,7 +299,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 #### Zoitsa
 - Balloon Lamp
 - Balloon Table
-- Balloon Nightstand
+- Balloon Nightstand (2x)
 - Balloon Plant
 - Space Lamp
 - Space Sofa
@@ -394,6 +394,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Wall
 - Balloon Nightstand
 - Balloon Wardrobe
+- Balloon TV
 - Soccer Stool
 - Soccer Chair
 - Soccer Clock

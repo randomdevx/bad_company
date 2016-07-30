@@ -47,7 +47,7 @@ Paying for a rent is optional, also paying for a collection with insurance so hi
 Remember, our interests is to bring the collections to our members as soon as possible and as cheap as possible, so we can unlock and catch the 5 fishes.
 
 
-# ITEMS WE ARE MISSING
+### ITEMS WE ARE MISSING
 
 |Balloon Clock                       |
 |:----------------------------------:|
@@ -87,9 +87,9 @@ Remember, our interests is to bring the collections to our members as soon as po
 5. Legendary
 
 
-# QUEUE LIST PER FURNITURE SET
+## QUEUE LIST PER COLLECTION
 
-### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
+#### BALLOON I
 
 | Item               | Owner        | Insurance | Rent/Day | Restrictions |
 |:-------------------|:-------------|----------:|---------:|:------------:|
@@ -115,7 +115,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 | ~~Zoitsa~~       | 06JUN16 02:00 | 06JUN16 23:00 | 1    | None      |
 | ~~Khan~~         | 05JUN16 00:00 | 06JUN16 02:00 | 2    | None      |
 
-### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
+#### CANDY I
 
 | Item               | Owner        | Insurance | Rent/Day | Restrictions |
 |:-------------------|:-------------|----------:|---------:|:------------:|
@@ -137,7 +137,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
 |                  |               |               |      |           |
 
-### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
+#### SOCCER I
 
 | Item               | Owner        | Insurance | Rent/Day | Restrictions |
 |:-------------------|:-------------|----------:|---------:|:------------:|
@@ -159,7 +159,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
 |                  |               |               |      |           |
 
-### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
+#### SPACE I
 
 | Item               | Owner        | Insurance | Rent/Day | Restrictions |
 |:-------------------|:-------------|----------:|---------:|:------------:|
@@ -181,7 +181,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
 |                  |               |               |      |           |
 
-### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
+#### GORGEOUS I
 
 | Item               | Owner        | Insurance | Rent/Day | Restrictions |
 |:-------------------|:-------------|----------:|---------:|:------------:|
@@ -204,9 +204,9 @@ Remember, our interests is to bring the collections to our members as soon as po
 |                  |               |               |      |           |
 
 
-# COMPLETE FURNITURE SETS
+## FURNITURE COLLECTION POSSIBILITIES
 
-### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
+#### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Musarah, Arshi1]
 - [ ] __Balloon Clock__
@@ -220,7 +220,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich]
 
-### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
+#### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
 - [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf]
@@ -234,7 +234,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Candy Wall [Adverfull, Esraa, Simewn]
 - [x] Candy Wardrobe [Adverfull, Marta]
 
-### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
+#### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil, Dany20]
 - [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah, Arshi1]
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich, Esraa, Arshi1]
@@ -248,7 +248,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
 
-### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
+#### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 - [ ] __Space Bed__
 - [ ] __Space Chair__
 - [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
@@ -262,7 +262,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [ ] __Space Wall__
 - [x] Space Wardrobe [Umam, Adverfull, Musarah]
 
-### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
+#### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich, Zoitsa, Arshi1]
 - [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn, Zoitsa, Dany20]
@@ -277,7 +277,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [ ] __Gorgeous Whiskey Table__
 
 
-# FURNITURE PER MEMBER
+## FURNITURE PER MEMBER
 
 #### Khan
 - Soccer Chair (2x) [100fb]

@@ -214,7 +214,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
-- [x] Balloon Sofa [Khan, Daredevil, Simewn]
+- [x] Balloon Sofa [Khan, Daredevil, Simewn, Adverfull]
 - [x] Balloon TV [Simewn]
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich, Arshi1]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
@@ -244,7 +244,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan, Arshi1]
-- [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
+- [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben, Arshi1]
 - [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
 
@@ -273,7 +273,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Zoitsa]
 - [x] Gorgeous Table [Adverfull, Simewn, Zoitsa]
 - [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
-- [x] Gorgeous Wardrobe [Sayani, Marta, Simewn]
+- [x] Gorgeous Wardrobe [Sayani, Marta, Simewn, Adverfull]
 - [ ] __Gorgeous Whiskey Table__
 
 
@@ -350,6 +350,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Bed
 - Balloon Chair
 - Balloon Wardrobe
+- Balloon Sofa
 - Gorgeous Table
 - Gorgeous Chair
 - Gorgeous Wall
@@ -358,6 +359,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Gorgeous Sofa
 - Gorgeous Closet
 - Gorgeous Floor
+- Gorgeous Wardrobe
 - Candy Stool
 - Candy Nightstand
 - Candy Wardrobe
@@ -622,6 +624,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Soccer Chair
 - Soccer Lamp
 - Soccer Stool
+- Soccer Table
 - Gorgeous Chair
 - Gorgeous Nightstand
 - Balloon Table

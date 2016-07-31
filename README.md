@@ -210,7 +210,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Musarah, Arshi1]
 - [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan]
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan, Arshi1]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
@@ -221,7 +221,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich]
 
 #### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
-- [x] Candy Armchair [Simewn, Marta, Adverfull]
+- [x] Candy Armchair [Simewn, Marta, Adverfull, Zoitsa]
 - [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
 - [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Zoitsa, Arshi1]
@@ -306,6 +306,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Space Floor
 - Candy Nightstand
 - Candy Plant
+- Candy Armchair
 - Candy Chair
 - Candy Sofa
 - Candy Stool
@@ -624,6 +625,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Gorgeous Chair
 - Gorgeous Nightstand
 - Balloon Table
+- Balloon Floor
 - Balloon Chair
 - Candy Stool
 - Candy Plant

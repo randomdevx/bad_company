@@ -223,7 +223,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 #### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull, Zoitsa]
 - [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
-- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf]
+- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Zoitsa]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
@@ -240,7 +240,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich, Esraa]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa, Musarah]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan]
@@ -462,6 +462,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Soccer Lamp
 - Soccer Clock
 - Soccer Chair (2x)
+- Soccer Nightstand (2x)
 - Balloon Floor
 - Balloon Chair
 - Space Wardrobe
@@ -481,6 +482,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Space Lamp
 - Candy Stool
 - Candy Sofa
+- Candy Chair
 
 #### Supriyadi
 - Soccer Chair

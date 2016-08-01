@@ -167,7 +167,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 | Space Chair        |              | 500       | 0        | None         |
 | Space Clock        |              | 500       | 0        | None         |
 | Space Floor        |              | 500       | 0        | None         |
-| Space Lamp         |              | 500       | 0        | None         |
+| Space Lamp         | Sayani       | 0         | 0        | None         |
 | Space Nightstand   |              | 500       | 0        | None         |
 | Space Sofa         |              | 500       | 0        | None         |
 | Space TV           |              | 500       | 0        | None         |
@@ -175,7 +175,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 | Space Trash        |              | 500       | 0        | None         |
 | Space Wall         |              | 500       | 0        | None         |
 | Space Wardrobe     | Musarah      | 200       | 0        | None         |
-| __Total__          |              | 5.7K      | 0        |
+| __Total__          |              | 5.2K      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|

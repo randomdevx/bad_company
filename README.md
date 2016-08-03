@@ -208,9 +208,9 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 #### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
-- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Musarah]
+- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
 - [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan, Sayani]
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Ben, Khan, Sayani]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
@@ -224,10 +224,10 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Candy Armchair [Simewn, Marta, Adverfull, Zoitsa]
 - [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
 - [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Musarah, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Zoitsa]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Zoitsa]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
-- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Musarah, Simewn]
+- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Simewn]
 - [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani, Ben]
 - [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich, sad123456789]
 - [ ] __Candy Table__
@@ -236,16 +236,16 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 #### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil, Dany20]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn, Musarah]
-- [x] Soccer Clock [Sayani, Nour, Musarah, Adverfull, Zoitsa, Simewn, Machich, Esraa]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn]
+- [x] Soccer Clock [Sayani, Nour, Adverfull, Zoitsa, Simewn, Machich, Esraa]
 - [ ] __Soccer Floor__
-- [x] Soccer Lamp [Musarah, Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa, Musarah]
+- [x] Soccer Lamp [Tata_1993, Umam, Tonia, Adverfull]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
-- [x] Soccer Wall [Musarah, Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
+- [x] Soccer Wall [Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
 
 #### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
@@ -260,7 +260,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [ ] __Space Table__
 - [x] Space Trash Bin [Simewn]
 - [ ] __Space Wall__
-- [x] Space Wardrobe [Umam, Adverfull, Musarah]
+- [x] Space Wardrobe [Umam, Adverfull]
 
 #### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
@@ -456,18 +456,6 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Space Clock
 - Space Nightstand
 - Space Lamp
-
-#### Musarah
-- Soccer Wall
-- Soccer Lamp
-- Soccer Clock
-- Soccer Chair (2x)
-- Soccer Nightstand (2x)
-- Balloon Floor
-- Balloon Chair
-- Space Wardrobe
-- Candy Floor
-- Candy Plant
 
 #### Sayani
 - Balloon Table

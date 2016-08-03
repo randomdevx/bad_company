@@ -210,7 +210,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Musarah]
 - [ ] __Balloon Clock__
-- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan]
+- [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Musarah, Ben, Khan, Sayani]
 - [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
@@ -266,11 +266,11 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [ ] __Gorgeous Bed__
 - [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich, Zoitsa]
 - [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn, Zoitsa, Dany20]
-- [x] Gorgeous Floor [Khan, Adverfull]
+- [x] Gorgeous Floor [Khan, Adverfull, sad123456789]
 - [x] Gorgeous Lamp [Marta]
 - [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn, Machich]
 - [x] Gorgeous Plant[Adverfull]
-- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Zoitsa]
+- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Zoitsa, Sayani]
 - [x] Gorgeous Table [Adverfull, Simewn, Zoitsa]
 - [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
 - [x] Gorgeous Wardrobe [Sayani, Marta, Simewn, Adverfull]
@@ -484,6 +484,8 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Candy Sofa
 - Candy Chair
 - Balloon Wardrobe
+- Gorgeous Sofa
+- Balloon Floor
 
 #### Supriyadi
 - Soccer Chair
@@ -612,7 +614,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Candy Chair
 
 #### sad123456789
-- Balloon Table
+- Balloon Table (2x)
 - Balloon Floor
 - Balloon Chair
 - Balloon Nightstand
@@ -620,5 +622,6 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Candy Stool
 - Space Clock
 - Gorgeous Closet
+- Gorgeous Floor
 - Soccer Wall
 

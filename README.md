@@ -218,7 +218,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon TV [Simewn]
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull]
-- [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich]
+- [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich, Sayani]
 
 #### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull, Zoitsa]
@@ -483,6 +483,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Candy Stool
 - Candy Sofa
 - Candy Chair
+- Balloon Wardrobe
 
 #### Supriyadi
 - Soccer Chair

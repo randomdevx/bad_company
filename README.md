@@ -96,7 +96,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 | Balloon Bed        |              | 500       | 0        | None         |
 | Balloon Chair      | Khan         | 0         | 0        | None         |
 | Balloon Clock      |              | 500       | 0        | None         |
-| Balloon Floor      | Musarah      | 0         | 0        | None         |
+| Balloon Floor      |              | 500       | 0        | None         |
 | Balloon Lamp       |              | 500       | 0        | None         |
 | Balloon Nightstand | Khan         | 0         | 0        | None         |
 | Balloon Plant      |              | 500       | 0        | None         |
@@ -105,7 +105,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 | Balloon Table      |              | 500       | 0        | None         |
 | Balloon Wall       |              | 500       | 0        | None         |
 | Balloon Wardrobe   |              | 500       | 0        | None         |
-| __Total__          |              | 4K        | 0        |              |
+| __Total__          |              | 4.5K      | 0        |              |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
@@ -122,16 +122,16 @@ Remember, our interests is to bring the collections to our members as soon as po
 | Candy Armchair     |              | 500       | 0        | None         |
 | Candy Bed          |              | 500       | 0        | None         |
 | Candy Chair        |              | 500       | 0        | None         |
-| Candy Floor        | Musarah      | 300       | 0        | None         |
+| Candy Floor        |              | 500       | 0        | None         |
 | Candy Lamp         |              | 500       | 0        | None         |
 | Candy Nightstand   |              | 500       | 0        | None         |
-| Candy Plant        | Musarah      | 200       | 0        | None         |
+| Candy Plant        |              | 500       | 0        | None         |
 | Candy Sofa         |              | 500       | 0        | None         |
 | Candy Stool        |              | 500       | 0        | None         |
 | Candy Table        |              | 500       | 0        | None         |
 | Candy Wall         |              | 500       | 0        | None         |
 | Candy Wardrobe     |              | 500       | 0        | None         |
-| __Total__          |              | 5.5k      | 0        |
+| __Total__          |              | 6k        | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
@@ -142,18 +142,18 @@ Remember, our interests is to bring the collections to our members as soon as po
 | Item               | Owner        | Insurance | Rent/Day | Restrictions |
 |:-------------------|:-------------|----------:|---------:|:------------:|
 | Soccer Bed         |              | 500       | 0        | None         |
-| Soccer Chair       | Musarah      | 300       | 0        | None         |
-| Soccer Clock       | Musarah      | 300       | 0        | None         |
+| Soccer Chair       |              | 500       | 0        | None         |
+| Soccer Clock       |              | 500       | 0        | None         |
 | Soccer Floor       |              | 500       | 0        | None         |
-| Soccer Lamp        | Musarah      | 300       | 0        | None         |
+| Soccer Lamp        |              | 500       | 0        | None         |
 | Soccer Nightstand  |              | 500       | 0        | None         |
 | Soccer Single      |              | 500       | 0        | None         |
 | Soccer Sofa        |              | 500       | 0        | None         |
 | Soccer Stool       |              | 500       | 0        | None         |
 | Soccer Table       |              | 500       | 0        | None         |
-| Soccer Wall        | Musarah      | 300       | 0        | None         |
+| Soccer Wall        |              | 500       | 0        | None         |
 | Soccer Wardrobe    |              | 500       | 0        | None         |
-| __Total__          |              | 5.2K      | 0        |
+| __Total__          |              | 6K        | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|
@@ -174,8 +174,8 @@ Remember, our interests is to bring the collections to our members as soon as po
 | Space Table        |              | 500       | 0        | None         |
 | Space Trash        |              | 500       | 0        | None         |
 | Space Wall         |              | 500       | 0        | None         |
-| Space Wardrobe     | Musarah      | 200       | 0        | None         |
-| __Total__          |              | 5.2K      | 0        |
+| Space Wardrobe     |              | 500       | 0        | None         |
+| __Total__          |              | 5.5K      | 0        |
 
 | Renter           | From          | To            | Days | Rent Paid |
 |:-----------------|:-------------:|:-------------:|:----:|:---------:|

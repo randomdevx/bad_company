@@ -211,13 +211,13 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Ben, Khan, Sayani]
-- [x] Balloon Lamp [Zoitsa, Adverfull, Simewn]
+- [x] Balloon Lamp [Zoitsa, Adverfull, Simewn, Sayani]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn, Adverfull]
 - [x] Balloon TV [Simewn]
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich]
-- [x] Balloon Wall [Sherlock, Simewn, Adverfull]
+- [x] Balloon Wall [Sherlock, Simewn, Adverfull, Sayani]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich, Sayani]
 
 #### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
@@ -254,7 +254,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
 - [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn, Zoitsa]
 - [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich, Ben]
-- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich]
+- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich, Zoitsa]
 - [x] Space Sofa [Adverfull, Sayani, Marta, Zoitsa]
 - [x] Space TV [Simewn]
 - [ ] __Space Table__
@@ -299,11 +299,12 @@ Remember, our interests is to bring the collections to our members as soon as po
 #### Zoitsa
 - Balloon Lamp
 - Balloon Table
-- Balloon Nightstand (2x)
+- Balloon Nightstand
 - Balloon Plant
 - Space Lamp
 - Space Sofa
 - Space Floor
+- Space Nightstand
 - Candy Nightstand
 - Candy Plant
 - Candy Armchair
@@ -474,6 +475,8 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Wardrobe
 - Gorgeous Sofa
 - Balloon Floor
+- Balloon Wall
+- Balloon Lamp
 
 #### Supriyadi
 - Soccer Chair

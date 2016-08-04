@@ -460,23 +460,23 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 #### Sayani
 - Balloon Table
+- Balloon Floor
+- Balloon Wall
+- Balloon Lamp
+- Balloon Plant
+- Balloon Wardrobe
 - Soccer Stool
 - Soccer Clock
-- Candy Nightstand
-- Gorgeous Chair
-- Space Sofa
-- Gorgeous Wardrobe
-- Balloon Plant
 - Soccer Chair
+- Space Sofa
 - Space Lamp
 - Candy Stool
 - Candy Sofa
 - Candy Chair
-- Balloon Wardrobe
+- Candy Nightstand
 - Gorgeous Sofa
-- Balloon Floor
-- Balloon Wall
-- Balloon Lamp
+- Gorgeous Chair
+- Gorgeous Wardrobe
 
 #### Supriyadi
 - Soccer Chair

@@ -18,11 +18,11 @@ The main idea is to collectively complete the furniture sets, so we can take tur
 3. The SENDER is responsible of receiving the total insurance cost assigned to that collection.
 4. The RECEIVER is responsible of receiving the entire collection of 12 items.
 5. Considering only 6 items can be traded per trade session, the split is left at the will and desire of both parties involved.
-6. AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Zoitsa/Khan.
+6. AFTER the trade is completed, a confirmation message from each member (receiver/sender) should be sent to Khan.
 7. In the event a collection has rent fees, those will be paid directly to each item owner with set fees. Further trade sessions will be necessary.
 
 Thank you
-Zoitsa, Khan
+Khan
 
 
 ### Notes
@@ -211,51 +211,51 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Ben, Khan, Sayani]
-- [x] Balloon Lamp [Zoitsa, Adverfull, Simewn, Sayani]
-- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, Zoitsa, sad123456789]
-- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, Zoitsa]
+- [x] Balloon Lamp [Adverfull, Simewn, Sayani]
+- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, sad123456789]
+- [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn, Adverfull]
 - [x] Balloon TV [Simewn]
-- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Zoitsa, Simewn, Hcyucvuyf, Supriyadi, Machich]
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Simewn, Hcyucvuyf, Supriyadi, Machich]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull, Sayani]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich, Sayani]
 
 #### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
-- [x] Candy Armchair [Simewn, Marta, Adverfull, Zoitsa]
-- [x] Candy Bed [Adverfull, Hcyucvuyf, Zoitsa]
-- [x] Candy Chair [Zoitsa, Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Zoitsa]
+- [x] Candy Armchair [Simewn, Marta, Adverfull]
+- [x] Candy Bed [Adverfull, Hcyucvuyf]
+- [x] Candy Chair [Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan]
 - [x] Candy Lamp [Adverfull]
-- [x] Candy Nightstand [Sayani, Zoitsa, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
-- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Zoitsa, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Simewn]
-- [x] Candy Sofa [Adverfull, Nour, Zoitsa, Simewn, Sayani, Ben]
-- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Zoitsa, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich, sad123456789]
+- [x] Candy Nightstand [Sayani, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
+- [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Simewn]
+- [x] Candy Sofa [Adverfull, Nour, Simewn, Sayani, Ben]
+- [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich, sad123456789]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull, Esraa, Simewn]
 - [x] Candy Wardrobe [Adverfull, Marta]
 
 #### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil, Dany20]
-- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Zoitsa, Sayani, Flora, Simewn]
-- [x] Soccer Clock [Sayani, Nour, Adverfull, Zoitsa, Simewn, Machich, Esraa]
+- [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Sayani, Flora, Simewn]
+- [x] Soccer Clock [Sayani, Nour, Adverfull, Simewn, Machich, Esraa]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Tata_1993, Umam, Tonia, Adverfull]
-- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia, Zoitsa]
+- [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia,]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
-- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Zoitsa, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan]
+- [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
-- [x] Soccer Wall [Dany20, Marta, Adverfull, Flora, Zoitsa, sad123456789, Simewn, Supriyadi]
+- [x] Soccer Wall [Dany20, Marta, Adverfull, Flora, sad123456789, Simewn, Supriyadi]
 - [x] Soccer Wardrobe [Adverfull, Simewn]
 
 #### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 - [ ] __Space Bed__
 - [ ] __Space Chair__
 - [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
-- [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn, Zoitsa]
-- [x] Space Lamp [Zoitsa, Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich, Ben]
-- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich, Zoitsa]
-- [x] Space Sofa [Adverfull, Sayani, Marta, Zoitsa]
+- [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn]
+- [x] Space Lamp [Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich, Ben]
+- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich]
+- [x] Space Sofa [Adverfull, Sayani, Marta, ]
 - [x] Space TV [Simewn]
 - [ ] __Space Table__
 - [x] Space Trash Bin [Simewn]
@@ -264,15 +264,15 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 #### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
 - [ ] __Gorgeous Bed__
-- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich, Zoitsa]
-- [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn, Zoitsa, Dany20]
+- [x] Gorgeous Chair [Simewn, Marta, Esraa, AZ, Sayani, Adverfull, Machich]
+- [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn, Dany20]
 - [x] Gorgeous Floor [Khan, Adverfull, sad123456789]
 - [x] Gorgeous Lamp [Marta]
-- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Zoitsa, Sherlocks, Simewn, Machich]
+- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Sherlocks, Simewn, Machich]
 - [x] Gorgeous Plant[Adverfull]
-- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Zoitsa, Sayani]
-- [x] Gorgeous Table [Adverfull, Simewn, Zoitsa]
-- [x] Gorgeous Wall [Machich, Adverfull, Zoitsa]
+- [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Sayani]
+- [x] Gorgeous Table [Adverfull, Simewn]
+- [x] Gorgeous Wall [Machich, Adverfull]
 - [x] Gorgeous Wardrobe [Sayani, Marta, Simewn, Adverfull]
 - [ ] __Gorgeous Whiskey Table__
 
@@ -295,35 +295,6 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Candy Plant
 - Candy Stool
 - Candy Floor
-
-#### Zoitsa
-- Balloon Lamp
-- Balloon Table
-- Balloon Nightstand
-- Balloon Plant
-- Space Lamp
-- Space Sofa
-- Space Floor
-- Space Nightstand
-- Candy Nightstand
-- Candy Plant
-- Candy Armchair
-- Candy Chair
-- Candy Sofa
-- Candy Stool
-- Candy Bed
-- Candy Floor
-- Soccer Stool
-- Soccer Chair
-- Soccer Wall
-- Soccer Clock
-- Soccer Nightstand
-- Gorgeous Nightstand
-- Gorgeous Wall
-- Gorgeous Chair
-- Gorgeous Sofa
-- Gorgeous Closet
-- Gorgeous Table
 
 #### Adverfull
 - Soccer Nightstand

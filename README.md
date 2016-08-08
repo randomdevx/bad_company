@@ -212,7 +212,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Ben, Khan, Sayani]
 - [x] Balloon Lamp [Adverfull, Simewn, Sayani]
-- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, sad123456789]
+- [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, sad123456789, Sayani]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn, Adverfull]
 - [x] Balloon TV [Simewn]
@@ -436,6 +436,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Lamp
 - Balloon Plant
 - Balloon Wardrobe
+- Balloon Nightstand
 - Soccer Stool
 - Soccer Clock
 - Soccer Chair
@@ -554,7 +555,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 #### SherlocksAwesome
 - Balloon Wall
 - Soccer Nightstand
-- Candy Nightstand
+- Candy Nightstand (2x)
 - Gorgeous Nightstand
 
 #### Ben

@@ -216,7 +216,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich]
 - [x] Balloon Sofa [Khan, Daredevil, Simewn, Adverfull]
 - [x] Balloon TV [Simewn]
-- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Simewn, Hcyucvuyf, Supriyadi, Machich]
+- [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Simewn, Hcyucvuyf, Supriyadi, Machich, Sherlock]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull, Sayani]
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich, Sayani]
 
@@ -224,7 +224,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Candy Armchair [Simewn, Marta, Adverfull]
 - [x] Candy Bed [Adverfull, Hcyucvuyf]
 - [x] Candy Chair [Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani]
-- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan]
+- [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Sayani]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
 - [x] Candy Plant [Umam, Dany20, Tonia, AZ, Machich, Ben, Marta, Adverfull, Nour, Daredevil, Khan, Simewn]
@@ -239,7 +239,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Sayani, Flora, Simewn]
 - [x] Soccer Clock [Sayani, Nour, Adverfull, Simewn, Machich, Esraa]
 - [ ] __Soccer Floor__
-- [x] Soccer Lamp [Tata_1993, Umam, Tonia, Adverfull]
+- [x] Soccer Lamp [Tata_1993, Umam, Tonia, Adverfull, Sayani]
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia,]
 - [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
 - [ ] __Soccer Sofa__
@@ -440,12 +440,14 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Soccer Stool
 - Soccer Clock
 - Soccer Chair
+- Soccer Lamp
 - Space Sofa
 - Space Lamp
 - Candy Stool
 - Candy Sofa
 - Candy Chair
 - Candy Nightstand
+- Candy floor
 - Gorgeous Sofa
 - Gorgeous Chair
 - Gorgeous Wardrobe
@@ -557,6 +559,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Soccer Nightstand
 - Candy Nightstand (2x)
 - Gorgeous Nightstand
+- Balloon Table
 
 #### Ben
 - Soccer Stool
@@ -587,4 +590,3 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Gorgeous Closet
 - Gorgeous Floor
 - Soccer Wall
-

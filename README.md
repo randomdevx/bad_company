@@ -208,7 +208,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 #### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull, Simewn]
-- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn]
+- [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Sayani]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Ben, Khan, Sayani]
 - [x] Balloon Lamp [Adverfull, Simewn, Sayani, sad123456789]
@@ -221,7 +221,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Balloon Wardrobe [Dany20, Nour, Marta, Adverfull, Simewn, Machich, Sayani]
 
 #### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
-- [x] Candy Armchair [Simewn, Marta, Adverfull]
+- [x] Candy Armchair [Simewn, Marta, Adverfull, Sayani]
 - [x] Candy Bed [Adverfull, Hcyucvuyf]
 - [x] Candy Chair [Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Sayani]
@@ -232,7 +232,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Candy Stool [Marta, Adverfull, Tonia, Khan, Simewn, Hcyucvuyf, Sayani, Supriyadi, Machich, sad123456789]
 - [ ] __Candy Table__
 - [x] Candy Wall [Adverfull, Esraa, Simewn]
-- [x] Candy Wardrobe [Adverfull, Marta]
+- [x] Candy Wardrobe [Adverfull, Marta, Sayani]
 
 #### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
 - [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil, Dany20]
@@ -437,6 +437,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Plant
 - Balloon Wardrobe
 - Balloon Nightstand
+- Balloon Chair
 - Soccer Stool
 - Soccer Clock
 - Soccer Chair
@@ -449,6 +450,8 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Candy Chair
 - Candy Nightstand
 - Candy floor
+- Candy Wardrobe
+- Candy Armchair
 - Gorgeous Sofa
 - Gorgeous Chair
 - Gorgeous Wardrobe

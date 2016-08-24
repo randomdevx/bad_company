@@ -69,10 +69,10 @@ Remember, our interests is to bring the collections to our members as soon as po
 |![](/img/space_chair.png)           |![](/img/space_bed.png)             |
 |Epic                                |Legendary                           |
 
-|Space Table                         |Space Wall                          |
-|:----------------------------------:|:----------------------------------:|
-|![](/img/space_table.png)           |![](/img/space_wall.png)            |
-|Legendary                           |Epic                                |
+|Space Table                         |
+|:----------------------------------:|
+|![](/img/space_table.png)           |
+|Legendary                           |
 
 |Gorgeous Bed                        |Gorgeous Whiskey Table              |
 |:----------------------------------:|:----------------------------------:|

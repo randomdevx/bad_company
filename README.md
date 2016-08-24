@@ -223,7 +223,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 #### CANDY SET [ Orangespotted Soapfish | 5x | Dough, Insects, Vegetables ]
 - [x] Candy Armchair [Simewn, Marta, Adverfull, Sayani]
 - [x] Candy Bed [Adverfull, Hcyucvuyf]
-- [x] Candy Chair [Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani]
+- [x] Candy Chair [Adverfull, Dany20, Khan, Simewn, Machich, Hcyucvuyf, Sayani, sad123456789]
 - [x] Candy Floor [Adverfull, Esraa, Flora, Nour, Marta, Daredevil, Tonia, Simewn, Supriyadi, Machich, Khan, Sayani]
 - [x] Candy Lamp [Adverfull]
 - [x] Candy Nightstand [Sayani, Adverfull, Marta, Sherlock, Khan, sad123456789, Simewn, Machich]
@@ -259,7 +259,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Space TV [Simewn]
 - [ ] __Space Table__
 - [x] Space Trash Bin [Simewn]
-- [ ] __Space Wall__
+- [x] Space Wall [Adverfull]
 - [x] Space Wardrobe [Umam, Adverfull]
 
 #### GORGEOUS SET [ Peppermint Angelfish | 5x | Fish, Insects ]
@@ -313,6 +313,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Space Clock
 - Space Floor
 - Space Wardrobe
+- Space Wall
 - Balloon Floor
 - Balloon Wall
 - Balloon Lamp
@@ -592,6 +593,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Lamp
 - Candy Nightstand
 - Candy Stool
+- Candy Chair
 - Space Clock
 - Gorgeous Closet
 - Gorgeous Floor

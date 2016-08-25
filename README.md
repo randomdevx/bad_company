@@ -207,14 +207,14 @@ Remember, our interests is to bring the collections to our members as soon as po
 ## FURNITURE COLLECTION POSSIBILITIES
 
 #### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
-- [x] Balloon Bed [Umam, Adverfull, Simewn]
+- [x] Balloon Bed [Umam, Adverfull, Simewn, Sayani]
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Sayani]
 - [ ] __Balloon Clock__
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Ben, Khan, Sayani]
 - [x] Balloon Lamp [Adverfull, Simewn, Sayani, sad123456789]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, sad123456789, Sayani]
 - [x] Balloon Plant [Marta, Tonia, Simewn, Ben, Adverfull, Sayani, Daredevil, Machich, sad123456789]
-- [x] Balloon Sofa [Khan, Daredevil, Simewn, Adverfull]
+- [x] Balloon Sofa [Khan, Daredevil, Simewn, Adverfull, Sayani]
 - [x] Balloon TV [Simewn]
 - [x] Balloon Table [Umam, Sayani, sad12346789, Marta, Adverfull, Daredevil, Flora, Nour, Simewn, Hcyucvuyf, Supriyadi, Machich, Sherlock]
 - [x] Balloon Wall [Sherlock, Simewn, Adverfull, Sayani]
@@ -235,13 +235,13 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Candy Wardrobe [Adverfull, Marta, Sayani]
 
 #### SOCCER SET [ Garish Hind | 5x | Fish, Insects ]
-- [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil, Dany20]
+- [x] Soccer Bed [Marta, Nour, Adverfull, Daredevil, Dany20, Sayani]
 - [x] Soccer Chair [Khan, Supriyadi, Nour, Dany20, Adverfull, Esraa, Marta, Sayani, Flora, Simewn]
 - [x] Soccer Clock [Sayani, Nour, Adverfull, Simewn, Machich, Esraa]
 - [ ] __Soccer Floor__
 - [x] Soccer Lamp [Tata_1993, Umam, Tonia, Adverfull, Sayani, sad123456789]
 - [x] Soccer Nightstand [Adverfull, Umam, Dany20, SherlocksAwesome, Tonia,]
-- [x] Soccer Single Sofa [Machich, Adverfull, Esraa]
+- [x] Soccer Single Sofa [Machich, Adverfull, Esraa, Sayani]
 - [ ] __Soccer Sofa__
 - [x] Soccer Stool [Umam, Sayani, Dany20, Simewn, Ben, Marta, Adverfull, Daredevil, Hcyucvuyf, Supriyadi, Machich, Nour, Khan]
 - [x] Soccer Table [Esraa, Adverfull, Nour, Marta, Ben]
@@ -251,10 +251,10 @@ Remember, our interests is to bring the collections to our members as soon as po
 #### SPACE SET [ Masked Angelfish | 5x | Fish, Insects ]
 - [ ] __Space Bed__
 - [ ] __Space Chair__
-- [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich]
+- [x] Space Clock [Esraa, Tata_1993, Adverfull, sad123456789, Daredevil, Simewn, Machich, Sayani]
 - [x] Space Floor [Machich, Marta, Adverfull, Khan, Simewn, Sayani]
 - [x] Space Lamp [Adverfull, Tonia, Khan, Dany20, Sayani, Simewn, Machich, Ben]
-- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich]
+- [x] Space Nightstand [Adverfull, Ben, Marta, Flora, Simewn, Machich, Sayani]
 - [x] Space Sofa [Adverfull, Sayani, Marta, ]
 - [x] Space TV [Simewn]
 - [ ] __Space Table__
@@ -268,7 +268,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - [x] Gorgeous Closet [Adverfull, sad123456789, Tonia, Simewn, Dany20]
 - [x] Gorgeous Floor [Khan, Adverfull, sad123456789]
 - [x] Gorgeous Lamp [Marta]
-- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Sherlocks, Simewn, Machich, sad123456789]
+- [x] Gorgeous Nightstand [Khan, Umam, Esraa, Adverfull, Daredevil, Sherlocks, Simewn, Machich, sad123456789, Sayani]
 - [x] Gorgeous Plant[Adverfull]
 - [x] Gorgeous Sofa [Marta, Adverfull, Flora, Simewn, Machich, Sayani]
 - [x] Gorgeous Table [Adverfull, Simewn]
@@ -439,13 +439,20 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Wardrobe
 - Balloon Nightstand
 - Balloon Chair
+- Balloon Sofa
+- Balloon Bed
 - Soccer Stool
 - Soccer Clock
 - Soccer Chair
 - Soccer Lamp
+- Soccer Single Sofa
+- Soccer Nightstand
+- Soccer Bed
 - Space Sofa
+- Space Nightstand
 - Space Lamp
 - Space Floor
+- Space Clock
 - Candy Stool
 - Candy Sofa
 - Candy Chair
@@ -456,6 +463,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Gorgeous Sofa
 - Gorgeous Chair
 - Gorgeous Wardrobe
+- Gorgeous Nightstand
 
 #### Supriyadi
 - Soccer Chair

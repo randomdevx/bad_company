@@ -49,11 +49,6 @@ Remember, our interests is to bring the collections to our members as soon as po
 
 ### ITEMS WE ARE MISSING
 
-|Balloon Clock                       |
-|:----------------------------------:|
-|![](/img/Balloon-clock.png)         |
-|Epic                                |
-
 |Candy Table                         |
 |:----------------------------------:|
 |![](/img/Candy-table.png)           |

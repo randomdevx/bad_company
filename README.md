@@ -209,7 +209,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 #### BALLOON SET [ Candy Basslet | 5x | Dough, Insects, Vegetables ]
 - [x] Balloon Bed [Umam, Adverfull, Simewn, Sayani]
 - [x] Balloon Chair [Marta, Dany20, Adverfull, Flora, Daredevil, Khan, sad123456789, Esraa, Simewn, Sayani]
-- [ ] __Balloon Clock__
+- [x] Balloon Clock [Adverfull]
 - [x] Balloon Floor [Adverfull, Machich, Umam, Simewn, Marta, Supriyadi, sad123456789, Daredevil, Dany20, Ben, Khan, Sayani]
 - [x] Balloon Lamp [Adverfull, Simewn, Sayani, sad123456789]
 - [x] Balloon Nightstand [Khan, Dany20, Umam, Tata_1993, Simewn, Nour, Hcyucvuyf, Adverfull, sad123456789, Sayani]
@@ -324,6 +324,7 @@ Remember, our interests is to bring the collections to our members as soon as po
 - Balloon Chair
 - Balloon Wardrobe
 - Balloon Sofa
+- Balloon Clock
 - Gorgeous Table
 - Gorgeous Chair
 - Gorgeous Wall
